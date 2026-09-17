@@ -1,0 +1,15 @@
+# Normalize line endings: keep LF in the repository, let Git handle the rest.
+* text=auto eol=lf
+
+# Binary assets must never be line-ending converted.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.jar binary
+*.apk binary
+*.aab binary
+
+# Generated / vendored files excluded from language stats.
+tools/bundled_sheets_manifest.json linguist-generated=true
+gradlew linguist-vendored=true
+gradlew.bat linguist-vendored=true

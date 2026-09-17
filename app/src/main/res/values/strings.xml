@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sky Auto Player</string>
+    <string name="accessibility_description">Dispatches configured performance gestures.</string>
+</resources>

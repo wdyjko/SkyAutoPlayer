@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- W19: minimise = ring + short dash (hand-written geometry, no third-party
+     icon set, so no attribution is required). 24x24 viewport, 2dp stroke, the
+     same line weight as every other overlay icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M 12,3 A 9,9 0 1,1 12,21 A 9,9 0 1,1 12,3"
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 8,12 L 16,12"
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>

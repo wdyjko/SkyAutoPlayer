@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "Chord Pulse (unified events)",
+  "bpm": 100,
+  "speed": 1.0,
+  "events": [
+    {"t": 0, "keys": [0, 2, 4], "hold": 120},
+    {"t": 400, "keys": [5, 7, 9], "hold": 120},
+    {"t": 800, "keys": [10, 12, 14], "hold": 120},
+    {"t": 1200, "keys": [7], "hold": 80},
+    {"t": 1400, "keys": [8], "hold": 80},
+    {"t": 1600, "keys": [9], "hold": 80},
+    {"t": 1800, "keys": [5, 9, 12], "hold": 200}
+  ]
+}

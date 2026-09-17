@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- W12: dock tab background; selection is a colour change, not a new view. -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/dock_tab_selected" />
+    <item android:drawable="@android:color/transparent" />
+</selector>

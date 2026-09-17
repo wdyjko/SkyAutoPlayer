@@ -1,0 +1,5665 @@
+{
+ "generatedFrom": "device library (707 songs)",
+ "includedCount": 707,
+ "reusedOldNames": 565,
+ "newNames": 142,
+ "warnings": [],
+ "included": [
+  {
+   "assetName": "0001_-Counting Stars- 安迪Zoey.txt",
+   "title": "-Counting Stars- 安迪Zoey",
+   "durationUs": 250122000,
+   "eventCount": 1530,
+   "sourceId": "33b55abd-1b36-435c-913c-4945a87fd3f0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0002_-Late for the Date- 安迪Zoey.txt",
+   "title": "-Late for the Date- 安迪Zoey",
+   "durationUs": 116568000,
+   "eventCount": 301,
+   "sourceId": "81486ad8-89d3-4df2-b747-43e7cc099145",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0003_-我怀念的- 安迪Zoey.txt",
+   "title": "-我怀念的- 安迪Zoey",
+   "durationUs": 279116000,
+   "eventCount": 1419,
+   "sourceId": "38bb8333-5cf6-4159-9cce-439935360f09",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0004_-遠い空へ.txt",
+   "title": "缘之空-遠い空へ",
+   "durationUs": 198212000,
+   "eventCount": 1087,
+   "sourceId": "a0c54347-e11b-4b20-9f19-c03eb090dd20",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0005_-青花瓷- 安迪Zoey.txt",
+   "title": "-青花瓷- 安迪Zoey",
+   "durationUs": 119740000,
+   "eventCount": 391,
+   "sourceId": "f94d0cf1-53fe-48ab-a168-3ae0ee2fcc5c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0006_33只对你有感觉.txt",
+   "title": "33只对你有感觉",
+   "durationUs": 210660000,
+   "eventCount": 994,
+   "sourceId": "9514de13-44b1-4105-a434-4190de476b46",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0007_527831116893641多情种.txt",
+   "title": "多情种",
+   "durationUs": 72412000,
+   "eventCount": 224,
+   "sourceId": "e816dec7-d214-4c11-9ee9-e5885c0cc7e3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0008_7 years.txt",
+   "title": "7 years",
+   "durationUs": 115320000,
+   "eventCount": 527,
+   "sourceId": "eb1f14d5-1118-43c6-adb4-c67d0caff9c7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0009_Always Online.txt",
+   "title": "Always Online",
+   "durationUs": 179575000,
+   "eventCount": 363,
+   "sourceId": "bc761887-8501-4638-983a-63a608c60e4d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0010_Apologize(黒子これも).txt",
+   "title": "Apologize(黒子これも)",
+   "durationUs": 86964000,
+   "eventCount": 350,
+   "sourceId": "162d1363-637f-42cd-85ef-3cc9de51f500",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0011_Arrietty's_Song.txt",
+   "title": "借东西的小人",
+   "durationUs": 145454000,
+   "eventCount": 631,
+   "sourceId": "db7c0ed3-92df-441d-9cb2-d3ccc07dd0ff",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0012_Asphyxia逆时针向(暴躁).txt",
+   "title": "Asphyxia逆时针向(暴躁)",
+   "durationUs": 129039000,
+   "eventCount": 544,
+   "sourceId": "db2b3514-2cdd-494a-9a8f-f00a9fa99ea4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0013_Astronomia.txt",
+   "title": "黑人抬棺Astronomia",
+   "durationUs": 55310000,
+   "eventCount": 319,
+   "sourceId": "a9e20aba-f0fc-4701-9d48-9740d5b211a0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0014_Attention.txt",
+   "title": "Attention",
+   "durationUs": 105960000,
+   "eventCount": 723,
+   "sourceId": "adaacbab-4a3e-4004-bb17-84d57bae104a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0015_A叔终极还原My dearest.txt",
+   "title": "A叔终极还原My dearest",
+   "durationUs": 405935000,
+   "eventCount": 4081,
+   "sourceId": "2ee8d07b-1468-4fa7-b2c0-d39b77ca9bed",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0016_BTS 春日 spring day.txt",
+   "title": "BTS 春日 spring day",
+   "durationUs": 96076000,
+   "eventCount": 334,
+   "sourceId": "6ee9ec62-c78a-4230-ab1e-900d157f1058",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0017_Bad_Apple.txt",
+   "title": "Bad Apple",
+   "durationUs": 74060000,
+   "eventCount": 550,
+   "sourceId": "613abb53-574a-4f9d-91b8-21c316385f1d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0018_Blank Space.txt",
+   "title": "Blank Space ",
+   "durationUs": 100437000,
+   "eventCount": 539,
+   "sourceId": "b24bdd49-1b37-40eb-8b5c-51a2ce466c71",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0019_C418_Danny.txt",
+   "title": "[C418]Danny (Minecraft BGM)",
+   "durationUs": 56908000,
+   "eventCount": 157,
+   "sourceId": "681e51e0-e57b-4ea1-9e32-0fb6af039fbb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0020_C418_Hal2.txt",
+   "title": "[C418]Hal2 (Minecraft BGM)",
+   "durationUs": 126060000,
+   "eventCount": 308,
+   "sourceId": "7327f3ff-c37a-4a27-a3fe-3591bfb83f39",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0021_C418_Wet_Hands.txt",
+   "title": "[C418]Wet Hands (Minecraft BGM)",
+   "durationUs": 175840000,
+   "eventCount": 241,
+   "sourceId": "dd73fc03-ea1b-43b6-b242-59eeeca06920",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0022_Can Can 康康舞曲.txt",
+   "title": "Can Can 康康舞曲",
+   "durationUs": 120588000,
+   "eventCount": 1366,
+   "sourceId": "358d73e3-e010-49db-86a2-d26376b9d54c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0023_Canon卡农_C大调_简易版.txt",
+   "title": "Canon卡农 C大调 简易版",
+   "durationUs": 102460000,
+   "eventCount": 427,
+   "sourceId": "2aad0939-598f-4ae6-bdc7-51a4433fa5da",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0024_Co_Chac_Yeu_La_Day-MTP.txt",
+   "title": "Co Chac Yeu La Day - MTP",
+   "durationUs": 193865000,
+   "eventCount": 1220,
+   "sourceId": "0f8122d5-1722-4ab4-a48f-fa00ad709848",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0025_Comptine.txt",
+   "title": "Comptine d’un autre été (Amélie)",
+   "durationUs": 127150000,
+   "eventCount": 642,
+   "sourceId": "7453d1dd-d591-44de-871d-a2f1739caa6b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0026_Counting Star.txt",
+   "title": "Counting Star",
+   "durationUs": 249685000,
+   "eventCount": 1663,
+   "sourceId": "ecc9001a-2f08-4c4a-8e58-259beafacde0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0027_Creeper.txt",
+   "title": "Creeper",
+   "durationUs": 70560000,
+   "eventCount": 507,
+   "sourceId": "6c91a9e6-d52b-4228-abc3-373d79db2713",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0028_Done for me：德鲁纳酒店ost.txt",
+   "title": "Done for me：德鲁纳酒店ost",
+   "durationUs": 102566000,
+   "eventCount": 512,
+   "sourceId": "629423bd-2047-4f70-bce4-962fc49372ad",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0029_Dream_It_Possible.txt",
+   "title": "Dream It Possible（华为加油）",
+   "durationUs": 77743000,
+   "eventCount": 290,
+   "sourceId": "f81fee02-3174-48b8-a97e-81f504313743",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0030_Dusk(暴躁).txt",
+   "title": "Dusk(暴躁)",
+   "durationUs": 120606000,
+   "eventCount": 533,
+   "sourceId": "71e2dc36-5fad-484a-aa59-cf5dda601ed5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0031_Experience(暴躁).txt",
+   "title": "Experience(暴躁)",
+   "durationUs": 387260000,
+   "eventCount": 2526,
+   "sourceId": "c4a43008-644d-42e8-9a4b-89614780fd11",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0032_Faded.txt",
+   "title": "Faded",
+   "durationUs": 200140000,
+   "eventCount": 1501,
+   "sourceId": "ebe423a6-d5a3-4700-a5e1-9ff77510d055",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0033_Fake Love.txt",
+   "title": "Fake Love",
+   "durationUs": 86862000,
+   "eventCount": 456,
+   "sourceId": "53ef76d9-25f7-463c-9ef2-ebab5c771201",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0034_Falling Flower 舞い落ちる花びら.txt",
+   "title": "Falling Flower 舞い落ちる花びら",
+   "durationUs": 98760000,
+   "eventCount": 490,
+   "sourceId": "9a9da12e-5adf-4a63-a11b-334c05cb2dd6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0035_Faye's Theme 喵桑.txt",
+   "title": "Faye's Theme  喵桑",
+   "durationUs": 94908000,
+   "eventCount": 353,
+   "sourceId": "0d5fc863-b0d1-4a58-b2cb-aa5f0d1bc608",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0036_Flower Dance.txt",
+   "title": "Flower Dance",
+   "durationUs": 314412000,
+   "eventCount": 1122,
+   "sourceId": "5158f789-7c03-475d-b1a4-6fa657ad7ed5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0037_Flower_Dance.txt",
+   "title": "Flower Dance",
+   "durationUs": 270810000,
+   "eventCount": 2302,
+   "sourceId": "9f6322fa-eb95-475a-aa92-bb5a8b3a038c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0038_Fly me to the moon.txt",
+   "title": "Fly me to the moon",
+   "durationUs": 57660000,
+   "eventCount": 201,
+   "sourceId": "4bc067ff-3a80-4fb3-83dc-37b6309088ee",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0039_Foe River 完整版 喵桑.txt",
+   "title": "Foe River 完整版 喵桑",
+   "durationUs": 100435000,
+   "eventCount": 441,
+   "sourceId": "efe89b46-c27b-4d98-a343-bd0f0a3b2d94",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0040_Genshin_Liyue.txt",
+   "title": "Genshin Liyue",
+   "durationUs": 94780000,
+   "eventCount": 605,
+   "sourceId": "d5c54acc-6c9e-4ef5-b6e5-9a18906636aa",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0041_Graze_the_Roof.txt",
+   "title": "Graze the Roof",
+   "durationUs": 96060000,
+   "eventCount": 733,
+   "sourceId": "d018fc41-9034-48ad-be77-ceab05b8bb91",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0042_Hanava.txt",
+   "title": "Hanava",
+   "durationUs": 107235000,
+   "eventCount": 821,
+   "sourceId": "aa271ccb-2e93-4b6c-9028-9b9626670164",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0043_Hand in Hand（kz）.txt",
+   "title": "Hand in Hand",
+   "durationUs": 110805000,
+   "eventCount": 541,
+   "sourceId": "3590efae-ebe6-4f8c-8a87-da829da974ae",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0044_I need u.txt",
+   "title": "I need u",
+   "durationUs": 161060000,
+   "eventCount": 658,
+   "sourceId": "69e63d0c-e7f8-4557-b6a2-2f1e4f6dd615",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0045_Intro.txt",
+   "title": "Intro",
+   "durationUs": 126759000,
+   "eventCount": 822,
+   "sourceId": "8c955ef7-6121-4222-b009-98b4fc3de21e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0046_KING.txt",
+   "title": "KING",
+   "durationUs": 132520000,
+   "eventCount": 1497,
+   "sourceId": "2c9dc345-4395-4eeb-bcfb-4bf184f26812",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0047_Kiss_the_Rain.txt",
+   "title": "雨的印记（Kiss the Rain）By 有趣",
+   "durationUs": 187324000,
+   "eventCount": 459,
+   "sourceId": "9c6b14a7-bbdd-4171-8ab7-0d5dd70213de",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0048_LOVESTORY.txt",
+   "title": "LOVESTORY",
+   "durationUs": 196060000,
+   "eventCount": 1083,
+   "sourceId": "4120772c-9367-4b42-98fc-51a9b4a2e358",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0049_Last Christmas.txt",
+   "title": "Last Christmas ",
+   "durationUs": 132044000,
+   "eventCount": 720,
+   "sourceId": "e037dd90-b656-4a8a-aa9d-43043fafdc58",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0050_Lemon(C调).txt",
+   "title": "Lemon（C调）",
+   "durationUs": 240685000,
+   "eventCount": 1097,
+   "sourceId": "25d2dfcc-87ba-4e6e-b825-4fcf869bfe26",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0051_Let It Go 冰雪奇缘.txt",
+   "title": "Let It Go 冰雪奇缘",
+   "durationUs": 149466000,
+   "eventCount": 907,
+   "sourceId": "3b54fbf6-424b-4b91-836a-35fde3e58000",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0052_Let her go.txt",
+   "title": "Let her go",
+   "durationUs": 129708000,
+   "eventCount": 697,
+   "sourceId": "81bb0db5-c138-4acd-a6c9-ff9311b9e599",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0053_Let’s fall in love for the night.txt",
+   "title": "Let’s fall in love for the night ",
+   "durationUs": 128070000,
+   "eventCount": 538,
+   "sourceId": "26c6b2b3-d08a-49fd-86b3-b2a93c84144e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0054_Loser-米津玄师.txt",
+   "title": "Loser-米津玄师",
+   "durationUs": 129854000,
+   "eventCount": 1101,
+   "sourceId": "29e33239-9afc-4f06-92d5-7d8bbb5dadd5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0055_Love yourself - Justin Bieber (guitar E).txt",
+   "title": "Love yourself-Justin Bieber (guitar E)",
+   "durationUs": 154260000,
+   "eventCount": 873,
+   "sourceId": "6cf9c506-74f1-4040-8965-7634e588badb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0056_Love_5.txt",
+   "title": "Love 5",
+   "durationUs": 202260000,
+   "eventCount": 802,
+   "sourceId": "f693185a-4873-41d0-9004-1c4d167d1bfd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0057_MIUI铃声.txt",
+   "title": "MIUI铃声(循环)",
+   "durationUs": 109414000,
+   "eventCount": 512,
+   "sourceId": "d939fb36-89ed-4499-ac75-b8502be94dc1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0058_Maria.txt",
+   "title": "Maria 마리아",
+   "durationUs": 105860000,
+   "eventCount": 633,
+   "sourceId": "bb7e06c2-0d10-44ba-9942-daf40cd35bb4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0059_Martin_Ermen_River_Flows_in_You.txt",
+   "title": "Martin Ermen - River Flows in You",
+   "durationUs": 125068000,
+   "eventCount": 727,
+   "sourceId": "f00dbc28-5adf-40bd-9b59-fd54b250d668",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0060_Miku.txt",
+   "title": "Miku",
+   "durationUs": 72510000,
+   "eventCount": 393,
+   "sourceId": "40101c82-d373-417e-b69f-b87d4d3f03e5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0061_My heart will go on(2).txt",
+   "title": "My heart will go on",
+   "durationUs": 119036000,
+   "eventCount": 487,
+   "sourceId": "b000d156-f95b-4f22-9ee3-5345b3cf7aae",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0062_Nevada 烛子ikina.txt",
+   "title": "Nevada 烛子ikina",
+   "durationUs": 58380000,
+   "eventCount": 321,
+   "sourceId": "ba0adfa6-d6dc-413c-b30e-8b53947f942b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0063_Nevada.txt",
+   "title": "Vicetone - Nevada",
+   "durationUs": 119100000,
+   "eventCount": 1308,
+   "sourceId": "ba739997-6e1c-42b1-aa1f-7fb3121a7b47",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0064_Never_Gonna_Give_You_Up.txt",
+   "title": "Never Gonna Give You Up",
+   "durationUs": 57612000,
+   "eventCount": 329,
+   "sourceId": "cadb4617-d922-45b8-b59c-eead85b60377",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0065_Ninelie.txt",
+   "title": "Ninelie ",
+   "durationUs": 251838000,
+   "eventCount": 1547,
+   "sourceId": "322621a1-891c-479e-bdb4-29b0fbff048f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0066_Ninelie(改编版).txt",
+   "title": "Ninelie(改编版)",
+   "durationUs": 145041000,
+   "eventCount": 1456,
+   "sourceId": "5d799ac5-7dba-4f95-9598-06bc84b98132",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0067_Only_my_railgun.txt",
+   "title": "Only my railgun",
+   "durationUs": 259500000,
+   "eventCount": 1754,
+   "sourceId": "e9441039-fc87-4248-9919-d3c9c19777f7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0068_Pachelbel's Canon（D大调卡农）.txt",
+   "title": "Pachelbel's Canon（D大调卡农）",
+   "durationUs": 240210000,
+   "eventCount": 1250,
+   "sourceId": "2b32fe15-242f-4ce2-97e5-45f43075a35c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0069_Prayer X 烛子ikina.txt",
+   "title": "Prayer X 烛子ikina",
+   "durationUs": 83682000,
+   "eventCount": 393,
+   "sourceId": "68946242-73f1-4372-a1b4-74acdf9e0d63",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0070_Prism cube.txt",
+   "title": "Prism cube",
+   "durationUs": 79454000,
+   "eventCount": 246,
+   "sourceId": "e92ef9c5-6b7a-4538-8ab3-1aef4db39787",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0071_Rain After Summer.txt",
+   "title": "Rain After Summer",
+   "durationUs": 126560000,
+   "eventCount": 289,
+   "sourceId": "31a2d34a-8185-4f9a-ac92-4e1f74f1c928",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0072_Remember me 烛子ikina.txt",
+   "title": "Remember me 烛子ikina",
+   "durationUs": 62660000,
+   "eventCount": 151,
+   "sourceId": "4bc21040-6924-47d1-a3d3-5a2f45e88cf4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0073_Savage Love.txt",
+   "title": "Savage Love",
+   "durationUs": 96052000,
+   "eventCount": 612,
+   "sourceId": "71eeb855-1095-44ed-97a9-bbbc8f4f9ade",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0074_See_You_Again_(Stb).txt",
+   "title": "See You Again (Stb)",
+   "durationUs": 72178000,
+   "eventCount": 246,
+   "sourceId": "565f4d9f-f4f4-4c0e-8549-a23fa8021a75",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0075_Shout.txt",
+   "title": "Untitle",
+   "durationUs": 80148000,
+   "eventCount": 526,
+   "sourceId": "339cd03c-641a-4fae-adc9-7d473d55a2a7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0076_Silhouette.txt",
+   "title": "Silhouette",
+   "durationUs": 193119000,
+   "eventCount": 1631,
+   "sourceId": "f59466db-edd0-4337-8148-aaafc14f5468",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0077_Sold out(暴躁).txt",
+   "title": "Sold out(暴躁)",
+   "durationUs": 184182000,
+   "eventCount": 1745,
+   "sourceId": "320a0c77-2663-40f9-a4d9-53bcba7e5150",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0078_Souvevirs_d'Enfance.txt",
+   "title": "Souvevirs d'Enfance",
+   "durationUs": 146638000,
+   "eventCount": 758,
+   "sourceId": "64dcbd4c-1c04-494b-99d7-e7974abec215",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0079_Start Over.txt",
+   "title": "Start Over",
+   "durationUs": 110660000,
+   "eventCount": 495,
+   "sourceId": "1ec8429b-e524-414d-a52b-5f21cd767538",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0080_Summertime.txt",
+   "title": "Summertime",
+   "durationUs": 121090000,
+   "eventCount": 1112,
+   "sourceId": "050b21e2-b165-4348-bff2-b46a3e2579b7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0081_Summer（菊次郎的夏天）.txt",
+   "title": "Summer（菊次郎的夏天）",
+   "durationUs": 132860000,
+   "eventCount": 649,
+   "sourceId": "0957b143-acb7-4950-a77e-714a0de03935",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0082_TA.txt",
+   "title": "TA",
+   "durationUs": 171660000,
+   "eventCount": 1006,
+   "sourceId": "242dc628-2a4b-4dec-bf19-ab778c7de057",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0083_Take Me Higher-迪迦奥特曼.txt",
+   "title": "Take Me  Higher-(迪迦奥特曼)",
+   "durationUs": 106764000,
+   "eventCount": 504,
+   "sourceId": "e8f37d17-1d39-46d0-8595-39bb6d86f632",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0084_Ten Thousand Stars（CircusP）.txt",
+   "title": "Ten Thousand Stars",
+   "durationUs": 90420000,
+   "eventCount": 601,
+   "sourceId": "a377ffdc-66bc-4500-854f-455dcfc46e5f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0085_TheWorldRevolving.txt",
+   "title": "天旋地转",
+   "durationUs": 74096000,
+   "eventCount": 664,
+   "sourceId": "685177a9-804b-4bd9-9e18-3855b1c57f8c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0086_The_Right_Path.txt",
+   "title": "The Right Path",
+   "durationUs": 68700000,
+   "eventCount": 336,
+   "sourceId": "f2d48b76-6bdd-4e19-940c-bc1e52e997b0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0087_Unity.txt",
+   "title": "Unity",
+   "durationUs": 57460000,
+   "eventCount": 460,
+   "sourceId": "58676719-3501-42ae-b6a6-617611851b59",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0088_Unravel.txt",
+   "title": "TK from Ling tosite sigure - Unravel",
+   "durationUs": 213291000,
+   "eventCount": 2132,
+   "sourceId": "369035be-0fa1-4649-af6b-c5e0018c9b00",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0089_Unravel最终版.txt",
+   "title": "Unravel最终版",
+   "durationUs": 232605000,
+   "eventCount": 2650,
+   "sourceId": "67542f2f-648d-4dd6-866c-1c33a3e3b762",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0090_Untitle伴奏.txt",
+   "title": "Untitle伴奏",
+   "durationUs": 150060000,
+   "eventCount": 408,
+   "sourceId": "2ea539de-8790-43c7-bd7f-ab9ab0faf3fa",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0091_Untitle浼村.txt",
+   "title": "Untitle伴奏",
+   "durationUs": 150060000,
+   "eventCount": 408,
+   "sourceId": "639dbdbf-23d9-40c3-a4fb-267f39aa6f01",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0092_Viva La Vida 烛子ikina.txt",
+   "title": "Viva La Vida 烛子ikina",
+   "durationUs": 75052000,
+   "eventCount": 406,
+   "sourceId": "b13019f9-3457-4a11-a721-d794853497ff",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0093_Waiting_for_love.txt",
+   "title": "Avicii - Waiting for Love",
+   "durationUs": 119076000,
+   "eventCount": 980,
+   "sourceId": "82f3477c-e18f-4d35-85de-2d3a41c1f706",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0094_Waving Through A Window.txt",
+   "title": "Waving Through A Window",
+   "durationUs": 83520000,
+   "eventCount": 343,
+   "sourceId": "b82e4a7c-3c1f-417e-a191-32b79fdad890",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0095_Yellow 烛子ikina.txt",
+   "title": "Yellow 烛子ikina",
+   "durationUs": 62036000,
+   "eventCount": 377,
+   "sourceId": "1116c188-c546-42df-8aad-25d9496f2fe2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0096_Youngblood.txt",
+   "title": "Youngblood",
+   "durationUs": 83741000,
+   "eventCount": 811,
+   "sourceId": "e5aabe72-27fc-4989-8836-251c40326165",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0097_You－Higurashi no Naku ni Kai OST.txt",
+   "title": "You－Higurashi no Naku ni Kai OST",
+   "durationUs": 200260000,
+   "eventCount": 939,
+   "sourceId": "4487fab7-2125-4b52-896f-ed09530e9cea",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0098_all time low.txt",
+   "title": "all time low",
+   "durationUs": 55172000,
+   "eventCount": 345,
+   "sourceId": "5b9f501e-da81-4412-8a01-400470aedc6c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0099_asphyxia.txt",
+   "title": "asphyxia",
+   "durationUs": 93160000,
+   "eventCount": 238,
+   "sourceId": "b1ca8b9a-ca9b-45fa-b451-a1c5cb139041",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0100_because of you.txt",
+   "title": "because of you",
+   "durationUs": 210060000,
+   "eventCount": 1126,
+   "sourceId": "284a9f19-ff9b-41ec-8706-05d9539e7187",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0101_chopsticks duet high pitch.txt",
+   "title": "chopsticks duet high pitch",
+   "durationUs": 96504000,
+   "eventCount": 550,
+   "sourceId": "b7b1aa9c-6c6e-46f0-9bda-dbe79c1754dd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0102_chopsticks duet low pitch.txt",
+   "title": "chopsticks duet low pitch",
+   "durationUs": 96504000,
+   "eventCount": 611,
+   "sourceId": "8643466b-6dc5-4cbc-aabe-f08812868e1f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0103_from y to y.txt",
+   "title": "from y to y",
+   "durationUs": 77461000,
+   "eventCount": 216,
+   "sourceId": "66a1ced7-d22f-40af-986c-1ab8694afa4a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0104_gosling.txt",
+   "title": "gosling",
+   "durationUs": 111560000,
+   "eventCount": 264,
+   "sourceId": "95f0bf90-1341-430a-9eba-36f03174ec34",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0105_if i die young.txt",
+   "title": "if i die young",
+   "durationUs": 103636000,
+   "eventCount": 534,
+   "sourceId": "d9ac4ba2-3bf0-4701-bf75-7e0f683e9617",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0106_jojo bloody stream.txt",
+   "title": "jojo2",
+   "durationUs": 89310000,
+   "eventCount": 574,
+   "sourceId": "5f51ad41-f638-4ca9-8328-c04341333348",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0107_jojoジョジョ～その血の运命.txt",
+   "title": "jojo1",
+   "durationUs": 93312000,
+   "eventCount": 646,
+   "sourceId": "58c2a023-e8a7-41a1-9302-9df66eebcf1a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0108_lukaluka night fever 【稿】.txt",
+   "title": "lukaluka night fever 【稿】",
+   "durationUs": 75560000,
+   "eventCount": 173,
+   "sourceId": "27105150-66d6-4064-aed6-3f84262506a6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0109_mojito.txt",
+   "title": "mojito",
+   "durationUs": 74940000,
+   "eventCount": 349,
+   "sourceId": "e377c8b8-6c88-440c-97b6-e273d27248dd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0110_monster(爱你三千遍).txt",
+   "title": "monster(爱你三千遍)",
+   "durationUs": 83710000,
+   "eventCount": 297,
+   "sourceId": "60c4835b-72f8-469d-86cc-90f2a4bc7ff5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0111_never far away：鬼怪ost.txt",
+   "title": "never far away：鬼怪ost",
+   "durationUs": 96960000,
+   "eventCount": 491,
+   "sourceId": "ae49a705-e9f9-45a3-8e50-acdcec6fbd9e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0112_next to you.txt",
+   "title": "next  to  you.",
+   "durationUs": 257360000,
+   "eventCount": 1308,
+   "sourceId": "e3e8f9ab-26d4-4a0a-bd1c-16ebdf09ebbb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0113_odds&ends.txt",
+   "title": "odds&ends",
+   "durationUs": 124090000,
+   "eventCount": 587,
+   "sourceId": "308b74cb-fac2-4d8c-8588-6a30536320c5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0114_old memory.txt",
+   "title": "old memory",
+   "durationUs": 77760000,
+   "eventCount": 344,
+   "sourceId": "2c627469-9c57-4355-96b7-670c0d21caed",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0115_one more time,one more change秒速五厘米（完整版）边晴画.txt",
+   "title": "one more time,one more change",
+   "durationUs": 288060000,
+   "eventCount": 1305,
+   "sourceId": "7f8209b9-40f3-4342-a4dc-a83626e56f32",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0116_one more time,one more change（修改版）边晴画.txt",
+   "title": "one more time,one more change（修改版）边晴画",
+   "durationUs": 305060000,
+   "eventCount": 1373,
+   "sourceId": "4cbb9a19-8bee-45c6-b34e-4b3c3ff12f7e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0117_orbit：the king 永远的君主.txt",
+   "title": "orbit：the king 永远的君主",
+   "durationUs": 93172000,
+   "eventCount": 452,
+   "sourceId": "953bd950-01b1-45a9-ac60-28c0fd046928",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0118_pray 杀戮的天使 烛子ikina.txt",
+   "title": "pray 杀戮的天使 烛子ikina",
+   "durationUs": 68660000,
+   "eventCount": 279,
+   "sourceId": "6a3e74b0-a1b4-437e-b76a-d681dd141a34",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0119_pure imagination.txt",
+   "title": "pure imagination",
+   "durationUs": 66560000,
+   "eventCount": 223,
+   "sourceId": "2b19d182-4dd7-4650-8c04-d881103cb5bc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0120_ref_rain aimer 烛子ikina.txt",
+   "title": "ref:rain aimer 烛子ikina",
+   "durationUs": 67260000,
+   "eventCount": 265,
+   "sourceId": "64c6fdbb-e333-4fe9-85ab-69de950d4cb4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0121_refrain(完整版) 边晴画.txt",
+   "title": "refrain(完整版) 边晴画 ",
+   "durationUs": 272204000,
+   "eventCount": 946,
+   "sourceId": "c93562f3-295e-47f2-b5ae-8ce62308ebf3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0122_shape of you.txt",
+   "title": "shape of you",
+   "durationUs": 228220000,
+   "eventCount": 1306,
+   "sourceId": "3acf7fbc-fc9a-4915-be14-eb86d232cbe3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0123_she.txt",
+   "title": "she",
+   "durationUs": 123448000,
+   "eventCount": 959,
+   "sourceId": "bcb405e9-d58c-4a11-84aa-6e605647b47a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0124_star sky.txt",
+   "title": "star sky",
+   "durationUs": 266060000,
+   "eventCount": 2143,
+   "sourceId": "b3bd0bcf-8a4d-4f21-98e4-82f567acadd9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0125_stay with me.txt",
+   "title": "stay with me",
+   "durationUs": 111080000,
+   "eventCount": 445,
+   "sourceId": "e9ee6fd9-f4d1-4628-aaa2-0b29704b3d6d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0126_the show.txt",
+   "title": "the show",
+   "durationUs": 80088000,
+   "eventCount": 447,
+   "sourceId": "e1482e21-714b-4232-a53c-71d287ce79de",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0127_the truth that you leave.txt",
+   "title": "The Truth that You Leave",
+   "durationUs": 213036000,
+   "eventCount": 1756,
+   "sourceId": "73c5f87b-79bb-4126-8855-9669489da0d5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0128_track in time.txt",
+   "title": "track in time",
+   "durationUs": 89468000,
+   "eventCount": 648,
+   "sourceId": "8c227c8f-9894-4268-be90-f9439eb2ceaf",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0129_warriors：甜蜜家园ost.txt",
+   "title": "warriors：甜蜜家园ost",
+   "durationUs": 100260000,
+   "eventCount": 1050,
+   "sourceId": "9a3a77e5-f80f-4927-9ba5-352b49a22f8c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0130_xxxtentacion - sad 烛子ikina.txt",
+   "title": "xxxtentacion - sad 烛子ikina",
+   "durationUs": 57260000,
+   "eventCount": 267,
+   "sourceId": "4636c898-cdf0-4104-8af7-3898c6bab40c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0131_young and beautiful 烛子ikina.txt",
+   "title": "young and beautiful 烛子ikina",
+   "durationUs": 63060000,
+   "eventCount": 161,
+   "sourceId": "ea65f78f-d4bf-4b32-be99-2424d3acd8fc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0132_yuri on ice 烛子ikina.txt",
+   "title": "yuri on ice 烛子ikina",
+   "durationUs": 88596000,
+   "eventCount": 727,
+   "sourceId": "c06a0f9b-3ccd-4adb-96d1-bc69b7fca98f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0133_íÂ╚÷Ê░íÀ-║╬ÊÈ¢ÔËÃ.txt",
+   "title": "《撒野》-何以解忧",
+   "durationUs": 152100000,
+   "eventCount": 627,
+   "sourceId": "6d547a93-9738-4943-bd21-3210a0cfd9d3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0134_Коробейники.txt",
+   "title": "Коробейники (货郎)(俄罗斯方块BGM)",
+   "durationUs": 63140000,
+   "eventCount": 631,
+   "sourceId": "65fd4864-25d6-400e-80cd-05e1d4e6d1d2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0135_《Faded》何以解忧.txt",
+   "title": "《Faded》何以解忧",
+   "durationUs": 240828000,
+   "eventCount": 1514,
+   "sourceId": "697b1cef-e1fc-4d3c-b117-363e6f41ee35",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0136_《Let Me Down Slowly-稿》何以解忧.txt",
+   "title": "《Let Me Down Slowly-稿》何以解忧",
+   "durationUs": 269312000,
+   "eventCount": 1505,
+   "sourceId": "ee25c712-f4f6-4e5e-936f-4f6c737c6202",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0137_《Love Is Gone》何以解忧.txt",
+   "title": "《Love Is Gone》何以解忧",
+   "durationUs": 129540000,
+   "eventCount": 658,
+   "sourceId": "f4291760-3979-45d5-82a1-dca632d004a7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0138_《My sunset》-何以解忧.txt",
+   "title": "《My sunset》-何以解忧",
+   "durationUs": 97404000,
+   "eventCount": 471,
+   "sourceId": "1a113a7d-f5b9-4fcc-9d6c-62c3d2cecc32",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0139_《Mystery of Love》安迪Zoey.txt",
+   "title": "《Mystery of Love》安迪Zoey",
+   "durationUs": 319660000,
+   "eventCount": 929,
+   "sourceId": "b21db979-f0f4-452a-9c2e-12b64ae60501",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0140_《Say Something》安迪Zoey.txt",
+   "title": "《Say Something》安迪Zoey",
+   "durationUs": 175506000,
+   "eventCount": 697,
+   "sourceId": "277e6271-ac02-4def-a685-6b6be8c134cf",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0141_《The right path》-何以解忧.txt",
+   "title": "《The right path》-何以解忧",
+   "durationUs": 100144000,
+   "eventCount": 477,
+   "sourceId": "191d8e16-e758-487b-a04d-d40907a5757f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0142_《The way i still love you》-何以解忧.txt",
+   "title": "《The way i still love you》-何以解忧",
+   "durationUs": 119890000,
+   "eventCount": 524,
+   "sourceId": "e2409e9d-fcd5-460c-a64f-0c67e8b5bd1c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0143_《侧脸》-何以解忧.txt",
+   "title": "《侧脸》-何以解忧",
+   "durationUs": 204300000,
+   "eventCount": 1254,
+   "sourceId": "8ee452d0-ba8e-432c-acc8-f07ab6e19ea0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0144_《偏爱》-何以解忧.txt",
+   "title": "《偏爱》-何以解忧",
+   "durationUs": 208380000,
+   "eventCount": 1310,
+   "sourceId": "bd5df701-65c2-4fae-b6d3-92758f6b8be6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0145_《光年之外》-何以解忧.txt",
+   "title": "《光年之外》-何以解忧",
+   "durationUs": 226524000,
+   "eventCount": 816,
+   "sourceId": "694bc11b-b33b-4cf6-b860-1163a4b564f1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0146_《凤舞-稿》-何以解忧.txt",
+   "title": "《凤舞-稿》-何以解忧",
+   "durationUs": 67660000,
+   "eventCount": 447,
+   "sourceId": "0537b193-ff1b-41e7-9259-c29c6682391e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0147_《失眠飞行》-何以解忧.txt",
+   "title": "失眠飞行-何以解忧",
+   "durationUs": 208380000,
+   "eventCount": 1049,
+   "sourceId": "54a16770-7528-4c80-8971-669b35af4901",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0148_《学校2015-Reset》何以解忧.txt",
+   "title": "《学校2015-Reset》何以解忧",
+   "durationUs": 167340000,
+   "eventCount": 1076,
+   "sourceId": "2c8675f8-417a-4b56-aa1c-0538df7686c9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0149_《幻昼》何以解忧.txt",
+   "title": "《幻昼》何以解忧",
+   "durationUs": 213130000,
+   "eventCount": 1058,
+   "sourceId": "634762e9-c720-4027-8ca1-ded0902769ff",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0150_《手掌心》-何以解忧.txt",
+   "title": "《手掌心》-何以解忧",
+   "durationUs": 143541000,
+   "eventCount": 647,
+   "sourceId": "d80483a4-d2d1-459d-937e-49ea6289bfaa",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0151_《无人之岛》何以解忧.txt",
+   "title": "《无人之岛》何以解忧",
+   "durationUs": 274380000,
+   "eventCount": 1678,
+   "sourceId": "7ed5838b-3eef-42f5-a0e7-2f8c126407e5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0152_《无羁》何以解忧.txt",
+   "title": "《无羁》何以解忧",
+   "durationUs": 156924000,
+   "eventCount": 673,
+   "sourceId": "b0ba1bc4-0c27-4a9d-88de-334ece65346c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0153_《星星失眠》何以解忧.txt",
+   "title": "《星星失眠》何以解忧",
+   "durationUs": 199260000,
+   "eventCount": 675,
+   "sourceId": "ed432913-d85e-4571-ae20-704fc60a3dad",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0154_《潮汐》何以解忧.txt",
+   "title": "《潮汐》何以解忧",
+   "durationUs": 153360000,
+   "eventCount": 860,
+   "sourceId": "fbaec0d4-4d15-463b-978c-82edb6e40835",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0155_《爱丫爱丫》何以解忧.txt",
+   "title": "《爱丫爱丫》何以解忧",
+   "durationUs": 147060000,
+   "eventCount": 743,
+   "sourceId": "cd2d6714-1ea2-41cd-a98d-0bd632b7474a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0156_《甜甜的》-何以解忧.txt",
+   "title": "《甜甜的》-何以解忧",
+   "durationUs": 70520000,
+   "eventCount": 459,
+   "sourceId": "be80762e-0c07-4af4-b0f8-57e6472f66c8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0157_《破茧》-何以解忧.txt",
+   "title": "《破茧》-何以解忧",
+   "durationUs": 271788000,
+   "eventCount": 1292,
+   "sourceId": "2e520211-338d-40db-8695-e767cd0e7ce7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0158_《红色高跟鞋》何以解忧.txt",
+   "title": "《红色高跟鞋》何以解忧",
+   "durationUs": 98730000,
+   "eventCount": 533,
+   "sourceId": "4442cbf5-a68d-40d3-8c0a-ec4602a24db5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0159_《美人鱼》何以解忧.txt",
+   "title": "《美人鱼》何以解忧",
+   "durationUs": 153952000,
+   "eventCount": 908,
+   "sourceId": "fee35f08-c1f6-41d5-9c82-c2af7cf99103",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0160_《芒种》-何以解忧.txt",
+   "title": "《芒种》-何以解忧",
+   "durationUs": 172732000,
+   "eventCount": 653,
+   "sourceId": "e9a67449-2f63-44a4-96ae-77653266791f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0161_《还是分开》何以解忧.txt",
+   "title": "《还是分开》何以解忧",
+   "durationUs": 102660000,
+   "eventCount": 676,
+   "sourceId": "f8085d7e-0f9b-43f4-9889-90db429060b4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0162_《遇见》-何以解忧.txt",
+   "title": "《遇见》-何以解忧",
+   "durationUs": 82940000,
+   "eventCount": 437,
+   "sourceId": "70b2a201-91f3-4aa4-9471-b4e8de1da148",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0163_《钟》La Campanella(1).txt",
+   "title": "《钟》La Campanella",
+   "durationUs": 66660000,
+   "eventCount": 304,
+   "sourceId": "5596b2ad-bf7c-4bf6-b3d1-699ed0d75e42",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0165_『暴躁』Alone.txt",
+   "title": "Alone『暴躁』",
+   "durationUs": 112208000,
+   "eventCount": 1088,
+   "sourceId": "f654a65d-1e32-4a6e-a469-b62e088b1a71",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0166_『暴躁』Hgau Hung.txt",
+   "title": "Hgau Hung『暴躁』",
+   "durationUs": 163060000,
+   "eventCount": 1688,
+   "sourceId": "3553582e-282c-4749-9c84-9bfe0b86cb3d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0167_『暴躁』Time to love.txt",
+   "title": "Time to love『暴躁』",
+   "durationUs": 248037000,
+   "eventCount": 1374,
+   "sourceId": "59bbb213-cb35-44a2-a04a-709959221145",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0168_『暴躁』We don't talk anymore.txt",
+   "title": "We don't talk anymore『暴躁』",
+   "durationUs": 259172000,
+   "eventCount": 1841,
+   "sourceId": "78cf3f31-1798-4da9-a400-8e6efd173bed",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0169_『暴躁』不如.txt",
+   "title": "不如『暴躁』",
+   "durationUs": 157470000,
+   "eventCount": 718,
+   "sourceId": "bc6a49b5-6db9-481b-952f-3bd206616500",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0170_『暴躁』千本樱.txt",
+   "title": "千本樱『暴躁』",
+   "durationUs": 148860000,
+   "eventCount": 1098,
+   "sourceId": "8e013df5-f374-463d-8857-013ed0abb609",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0171_『暴躁』反方向的钟.txt",
+   "title": "反方向的钟",
+   "durationUs": 175740000,
+   "eventCount": 816,
+   "sourceId": "3423f894-7be4-4e34-9882-459cc9c60ea0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0172_『暴躁』富士山下.txt",
+   "title": "富士山下",
+   "durationUs": 87950000,
+   "eventCount": 569,
+   "sourceId": "73e681ac-24ae-4cab-af97-5ec000a3212c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0174_『暴躁』我好想你.txt",
+   "title": "我好想你",
+   "durationUs": 159604000,
+   "eventCount": 640,
+   "sourceId": "14f25b5a-da9d-4f30-96aa-6dc40f63954d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0175_『暴躁』搁浅.txt",
+   "title": "搁浅",
+   "durationUs": 149607000,
+   "eventCount": 514,
+   "sourceId": "86d4a780-2774-4062-9bdb-c6ffc691b884",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0176_『暴躁』水星记.txt",
+   "title": "水星记",
+   "durationUs": 125407000,
+   "eventCount": 828,
+   "sourceId": "d715e14f-5b20-4781-8af7-f7460509413c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0177_『暴躁』烟袋斜街.txt",
+   "title": "烟袋斜街(暴躁)",
+   "durationUs": 96674000,
+   "eventCount": 438,
+   "sourceId": "7c56c72e-6272-4dec-8dba-3383d4585153",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0178_『暴躁』神龙飞舞.txt",
+   "title": "神龙飞舞",
+   "durationUs": 69865000,
+   "eventCount": 608,
+   "sourceId": "cf36e430-7f6d-43ef-90a5-f41c904cd158",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0179_『暴躁』蒲公英的约定『暴躁』.txt",
+   "title": "蒲公英的约定(暴躁)",
+   "durationUs": 188367000,
+   "eventCount": 810,
+   "sourceId": "68562e79-0c6f-4390-b66b-d0949571f00d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0180_『暴躁』隔岸.txt",
+   "title": "隔岸『暴躁』",
+   "durationUs": 244060000,
+   "eventCount": 776,
+   "sourceId": "f77d6405-89a9-4dd0-996f-7deb19d2f74f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0181_いつも何度でも(千与千寻主题曲）F调.txt",
+   "title": "いつも何度でも(千与千寻主题曲）F调",
+   "durationUs": 233232000,
+   "eventCount": 1270,
+   "sourceId": "3840281d-7a82-43cd-a91b-ab87b2872d53",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0182_いつも何度でも.txt",
+   "title": "いつも何度でも",
+   "durationUs": 240040000,
+   "eventCount": 1276,
+   "sourceId": "1eb6fdff-335c-4213-9527-32c7dc90ecac",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0183_おじゃま虫（麻烦鬼）.txt",
+   "title": "おじゃま虫（麻烦鬼）",
+   "durationUs": 92064000,
+   "eventCount": 395,
+   "sourceId": "e7c03e1e-47d8-4d19-8c55-73a1675ff284",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0184_だれかの心臓になれたなら(和弦版).txt",
+   "title": "だれかの心臓になれたなら(和弦版)",
+   "durationUs": 106972000,
+   "eventCount": 765,
+   "sourceId": "11c70a10-1d18-4ade-8790-ab222462e618",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0185_だれかの心臓になれたなら.txt",
+   "title": "だれかの心臓になれたなら",
+   "durationUs": 106972000,
+   "eventCount": 486,
+   "sourceId": "bd98be91-f679-4bcd-b77e-cecbca9d61dc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0186_だんご大家族.txt",
+   "title": "[CL]だんご大家族",
+   "durationUs": 270360000,
+   "eventCount": 535,
+   "sourceId": "1fd7ee9a-9ff4-4558-b734-69a830a23262",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0187_ねこみみスイッチ#猫耳开关（DainwellP）.txt",
+   "title": "猫耳开关",
+   "durationUs": 98043000,
+   "eventCount": 465,
+   "sourceId": "c4bc5629-3e9f-4ce3-b924-cf8889869d9b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0188_みくみくにしてあげる＃把你mikumiku掉（M.WAV）.txt",
+   "title": "把你mikumiku掉",
+   "durationUs": 105572000,
+   "eventCount": 783,
+   "sourceId": "6b670020-0f7b-482c-809f-9685cccb1c7b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0189_もペもぺ（mopemope）.txt",
+   "title": "もペも（mopemope）",
+   "durationUs": 57060000,
+   "eventCount": 210,
+   "sourceId": "89a1bd2e-3be0-4cee-ad6b-14431a71149f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0190_アイロニ[By北北].txt",
+   "title": "アイロニ",
+   "durationUs": 145084000,
+   "eventCount": 945,
+   "sourceId": "84adad5e-52f8-4d66-a0c0-a39d77811607",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0191_アスノヨゾラ哨戒班 明日的夜空哨戒班 daz.txt",
+   "title": "アスノヨゾラ哨戒班 明日的夜空哨戒班                                                           daze哒",
+   "durationUs": 76362000,
+   "eventCount": 550,
+   "sourceId": "98bfdedd-b9fc-498f-ab6d-d81e97d23921",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0192_シャルル#Charles（バルーン）.txt",
+   "title": "シャルル",
+   "durationUs": 96634000,
+   "eventCount": 811,
+   "sourceId": "2f5d5b4a-26d3-4b6e-a3ea-bec6a78e70a0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0193_ストロボライト（椎名もた）.txt",
+   "title": "ストロボライト",
+   "durationUs": 90900000,
+   "eventCount": 304,
+   "sourceId": "2ff5d47b-e684-4808-aff4-94b9a6d0129c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0194_テオ#将手（Omoi）.txt",
+   "title": "テオ",
+   "durationUs": 104406000,
+   "eventCount": 1079,
+   "sourceId": "884ea62a-0339-45ef-b268-f97deec9901f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0195_ヒバナ#火花（deco27）.txt",
+   "title": "火花",
+   "durationUs": 110960000,
+   "eventCount": 853,
+   "sourceId": "e3560872-3f8d-4ccf-8a67-58faf706db34",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0196_メリュー Meru daze哒.txt",
+   "title": "メリュー Meru                                                                 daze哒",
+   "durationUs": 76420000,
+   "eventCount": 355,
+   "sourceId": "e47a95a3-e8e6-4a7b-a276-cd8053d1b710",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0197_リテラチュア(双手简谱).txt",
+   "title": "リテラュア(双手简谱)",
+   "durationUs": 235518000,
+   "eventCount": 2418,
+   "sourceId": "cfa99216-cc06-4f47-876a-614a73933655",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0198_リテラチュア.txt",
+   "title": "リテラチュア",
+   "durationUs": 182940000,
+   "eventCount": 467,
+   "sourceId": "95ab0df1-4b4d-404c-a2cf-afb28dacb881",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0199_ロストワンの号哭 Lost One的号哭 daz.txt",
+   "title": "ロストワンの号哭 Lost One的号哭                                                          daze哒",
+   "durationUs": 84700000,
+   "eventCount": 711,
+   "sourceId": "90796099-90c7-4b45-9f80-4d6ccd03fd1b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0200_ロミオとシンデレ#罗密欧与灰姑娘（doriko）.txt",
+   "title": "罗密欧与灰姑娘",
+   "durationUs": 105054000,
+   "eventCount": 738,
+   "sourceId": "d492e88d-0c45-4c17-b54d-0d3fbd81fdce",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0201_ローリンガール#Rolling Girl（wowaka）.txt",
+   "title": "Rolling Girl",
+   "durationUs": 90656000,
+   "eventCount": 799,
+   "sourceId": "60868d1c-8f45-41ee-a53d-9189e7c3468c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0202_ワールドイズマイン 世界第一的公主殿下 d.txt",
+   "title": "ワールドイズマイン 世界第一的公主殿下                                                           daze哒",
+   "durationUs": 92220000,
+   "eventCount": 489,
+   "sourceId": "053d708e-1782-46ed-b91b-c29d6ea33f0e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0203_一剪梅 烛子ikina.txt",
+   "title": "一剪梅 烛子ikina",
+   "durationUs": 77852000,
+   "eventCount": 195,
+   "sourceId": "d236c13e-bacf-4517-bdca-cf7ead7b7062",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0204_一千年以后.txt",
+   "title": "一千年以后",
+   "durationUs": 84560000,
+   "eventCount": 279,
+   "sourceId": "5260df53-891e-422c-a48f-d1a5c8ef8c31",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0205_一吻天荒[By北北].txt",
+   "title": "一吻天荒",
+   "durationUs": 108988000,
+   "eventCount": 496,
+   "sourceId": "2c534127-d54c-4059-8e14-d4d33e03e984",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0206_一天一天[By北北].txt",
+   "title": "一天一天",
+   "durationUs": 134610000,
+   "eventCount": 654,
+   "sourceId": "a4f52a78-ef4e-4965-afae-6508654b71cd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0207_一生所爱.txt",
+   "title": "一生所爱",
+   "durationUs": 146310000,
+   "eventCount": 428,
+   "sourceId": "ede92233-aa65-461a-a8d1-75b557efa08c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0208_一生所爱版本.txt",
+   "title": "一生所爱版本1",
+   "durationUs": 223580000,
+   "eventCount": 746,
+   "sourceId": "24d78e7d-93b5-4665-aaef-569f96d7842d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0209_一百万个可能.txt",
+   "title": "一百万个可能♡",
+   "durationUs": 210732000,
+   "eventCount": 793,
+   "sourceId": "156f2712-04de-4983-b2ec-a3b57ea4a50e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0210_一花一剑（和弦版）.txt",
+   "title": "一花一剑（和弦版）",
+   "durationUs": 199996000,
+   "eventCount": 931,
+   "sourceId": "a3077896-a2f1-4ff6-bbff-50ad016b018a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0211_七友.txt",
+   "title": "七友",
+   "durationUs": 103560000,
+   "eventCount": 638,
+   "sourceId": "2af67fd4-09c2-4c67-8f30-eb8994088f31",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0212_三叶的主题曲.txt",
+   "title": "三叶的主题曲",
+   "durationUs": 211899000,
+   "eventCount": 550,
+   "sourceId": "b4072cb3-5782-4f85-8afe-795087d7336d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0213_三葉.txt",
+   "title": "三葉",
+   "durationUs": 61724000,
+   "eventCount": 121,
+   "sourceId": "8e6aa30a-04c3-42da-b0ca-253a2a5b24dd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0214_下雨天.txt",
+   "title": "下雨天",
+   "durationUs": 167460000,
+   "eventCount": 857,
+   "sourceId": "0f8b3dbc-9808-4e15-9897-7fecf0472018",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0215_不为谁而作的歌.txt",
+   "title": "不为谁而作的歌",
+   "durationUs": 211756000,
+   "eventCount": 906,
+   "sourceId": "4c485696-0c60-48a5-8283-9be28733c2a4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0216_不再犹豫.txt",
+   "title": "不再犹豫",
+   "durationUs": 133410000,
+   "eventCount": 705,
+   "sourceId": "10de4d0d-5d78-47d8-9ef9-61cf1feebc11",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0217_不及.txt",
+   "title": "不及",
+   "durationUs": 171913000,
+   "eventCount": 730,
+   "sourceId": "c240672d-703f-4f50-b21d-a70379d0296b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0218_不染.txt",
+   "title": "不染",
+   "durationUs": 97300000,
+   "eventCount": 278,
+   "sourceId": "b1046e09-80ae-470d-b4a7-5c44cb0ba5f9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0219_不浪漫罪名.txt",
+   "title": "不浪漫罪名",
+   "durationUs": 90154000,
+   "eventCount": 449,
+   "sourceId": "cd84b064-4e80-4bcb-8fa6-0123757fec53",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0220_不知所措.txt",
+   "title": "不知所措",
+   "durationUs": 76860000,
+   "eventCount": 247,
+   "sourceId": "5cba79a2-5010-4d13-8292-fc70a752dafc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0221_不知道名字.txt",
+   "title": "不知道名字",
+   "durationUs": 69180000,
+   "eventCount": 288,
+   "sourceId": "86877c6e-347d-42ef-b1ea-e976e30151fe",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0222_不能说的秘密.txt",
+   "title": "不能说的秘密",
+   "durationUs": 96572000,
+   "eventCount": 173,
+   "sourceId": "71e9ebc5-33f0-406b-bf57-57656df855d2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0223_世界上的另一个我.txt",
+   "title": "世界上的另一个我",
+   "durationUs": 168060000,
+   "eventCount": 1286,
+   "sourceId": "8a9f1980-d247-484e-bcd0-5e0ba2c4b8c4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0224_乌鸦.txt",
+   "title": "乌鸦",
+   "durationUs": 116340000,
+   "eventCount": 701,
+   "sourceId": "d8b1c920-db7d-43cb-bbf4-b0bbff4b5895",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0225_九九八十一.txt",
+   "title": "九九八十一",
+   "durationUs": 95435000,
+   "eventCount": 701,
+   "sourceId": "5d921a8d-7586-4922-93fe-ba9e37a13b0f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0226_云水谣.txt",
+   "title": "云水谣",
+   "durationUs": 98270000,
+   "eventCount": 352,
+   "sourceId": "935eb040-2e77-4718-9734-34495fa93052",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0227_五月雨『暴躁』.txt",
+   "title": "五月雨",
+   "durationUs": 152340000,
+   "eventCount": 416,
+   "sourceId": "a0b93c89-c208-4c63-a9e9-52d7c8527c2e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0228_亡灵序曲选节.txt",
+   "title": "亡灵序曲选节",
+   "durationUs": 150060000,
+   "eventCount": 327,
+   "sourceId": "76e318b8-def8-412f-bf4c-3ba8f132ace0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0229_亲爱的，那不是爱情.txt",
+   "title": "亲爱的，那不是爱情",
+   "durationUs": 157310000,
+   "eventCount": 681,
+   "sourceId": "64dcb7ec-4bc6-41ba-8f1f-52b2b85b74c0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0230_从你的全世界路过(黒子これも).txt",
+   "title": "从你的全世界路过(黒子これも)",
+   "durationUs": 92062000,
+   "eventCount": 883,
+   "sourceId": "dde33ac3-a2d2-49ab-a4fc-f8749635ea48",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0231_他只是经过.txt",
+   "title": "他只是经过",
+   "durationUs": 107106000,
+   "eventCount": 464,
+   "sourceId": "f86aa61d-1542-4cfe-ab15-e4b42319206c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0232_仙剑问情.txt",
+   "title": "仙剑问情",
+   "durationUs": 108604000,
+   "eventCount": 174,
+   "sourceId": "ad545599-7e8a-4d0d-a3b5-cec103b8c033",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0233_会不会.txt",
+   "title": "会不会",
+   "durationUs": 138300000,
+   "eventCount": 838,
+   "sourceId": "07f578d2-0d90-41a1-bc5a-98dfa7a423e2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0234_体面 和弦版.txt",
+   "title": "体面  和弦版",
+   "durationUs": 280060000,
+   "eventCount": 916,
+   "sourceId": "f177ed13-2641-414a-b66f-fdb96e486164",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0235_体面.txt",
+   "title": "体面",
+   "durationUs": 115380000,
+   "eventCount": 463,
+   "sourceId": "60aa43de-eebb-4e45-802f-c0c1e6a1993c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0236_何以歌.txt",
+   "title": "何以歌",
+   "durationUs": 165555000,
+   "eventCount": 1069,
+   "sourceId": "8cfc17c6-d550-4835-aa08-07988e26beb8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0237_你一定能够成为你想要去成为的人.txt",
+   "title": "你一定能够成为你想要去成为的人",
+   "durationUs": 178832000,
+   "eventCount": 1372,
+   "sourceId": "c76fee7c-929c-467e-a12c-b59706b1fd5d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0238_你从未离去（完整版） 边晴画.LTPC.txt",
+   "title": "你从未离去（完整版） 边晴画.LTPC",
+   "durationUs": 309578000,
+   "eventCount": 1667,
+   "sourceId": "e1b72ecf-afd4-4414-a08f-ea7ea0cfe6a7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0239_你从未离去（独奏版EASY） 边晴画.LTPC.txt",
+   "title": "你从未离去（独奏版EASY） 边晴画.LTPC",
+   "durationUs": 234660000,
+   "eventCount": 539,
+   "sourceId": "bdcd8d09-b19b-4f0a-9e4b-7dac7c775d34",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0240_你从未离去（独奏版HARD） 边晴画.LTPC.txt",
+   "title": "你从未离去（独奏版HARD） 边晴画.LTPC",
+   "durationUs": 309578000,
+   "eventCount": 1646,
+   "sourceId": "d735db4c-efe9-41c5-b955-a7f56132453a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0241_你从未离去（简易版） 边晴画.LTPC.txt",
+   "title": "你从未离去（简易版） 边晴画.LTPC",
+   "durationUs": 165180000,
+   "eventCount": 223,
+   "sourceId": "7ee665f6-4ef1-4425-84d5-b2a7e06296df",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0242_你的名字 前前前世 zen zen zense.txt",
+   "title": "你的名字 前前前世 zen zen zense 烛子ikina",
+   "durationUs": 97004000,
+   "eventCount": 955,
+   "sourceId": "59155e80-5ac3-4963-a3f6-b1ba9cb8be0e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0243_你的名字 前前前世 简单版zen zen zense easy.txt",
+   "title": "你的名字 前前前世 简单版zen zen zense easy 烛子ikina",
+   "durationUs": 97004000,
+   "eventCount": 603,
+   "sourceId": "62685d9f-9f54-4542-8ca6-2d2396a19e39",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0244_你离开的真相(暴躁).txt",
+   "title": "你离开的真相(暴躁)",
+   "durationUs": 279878000,
+   "eventCount": 1534,
+   "sourceId": "c793e3a5-7c36-4a45-96bb-347047489cfb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0245_依兰爱情故事.txt",
+   "title": "依兰爱情故事",
+   "durationUs": 109810000,
+   "eventCount": 659,
+   "sourceId": "e7f79a5d-7d59-402d-b3ff-f0317ec055fd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0246_修炼爱情.txt",
+   "title": "修炼爱情",
+   "durationUs": 57660000,
+   "eventCount": 121,
+   "sourceId": "2f927371-2344-4574-99a0-c70d7124ce29",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0247_假如爱有天意.txt",
+   "title": "假如爱有天意",
+   "durationUs": 84310000,
+   "eventCount": 480,
+   "sourceId": "61a2aac9-3ac9-4370-abc6-881faa9eb2d8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0248_假如爱有天意（排箫）.txt",
+   "title": "假如爱有天意（排箫）",
+   "durationUs": 145685000,
+   "eventCount": 345,
+   "sourceId": "47b94a0f-31a8-4f01-ad3c-2e89206c8f52",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0249_偏爱.txt",
+   "title": "偏爱",
+   "durationUs": 209558000,
+   "eventCount": 1170,
+   "sourceId": "d263e002-384b-4836-bbb2-bf7baad0d1b3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0250_偏爱_UTF16.txt",
+   "title": "偏爱",
+   "durationUs": 92268000,
+   "eventCount": 374,
+   "sourceId": "070b8ef3-e054-45c0-b32f-eb5fdba4c608",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0251_偏食(香椎モイメ).txt",
+   "title": "偏食",
+   "durationUs": 83679000,
+   "eventCount": 453,
+   "sourceId": "bc93eb4d-a4cb-4551-b02e-4a529f3ab5d4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0252_像我这样的人—毛不易（沫忆）.txt",
+   "title": "像我这样的人—毛不易（沫忆）",
+   "durationUs": 120060000,
+   "eventCount": 502,
+   "sourceId": "e2769c0b-116a-4ecc-95c3-5d329b9a21ae",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0253_光.txt",
+   "title": "光",
+   "durationUs": 108520000,
+   "eventCount": 412,
+   "sourceId": "e2e57f81-aa7d-474a-8e13-4969d8c1237e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0254_光辉岁月.txt",
+   "title": "光辉岁月",
+   "durationUs": 78384000,
+   "eventCount": 318,
+   "sourceId": "e2007a9f-5d9b-4741-84b1-60c3de0d2081",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0255_光遇 雨林 烛子ikina.txt",
+   "title": "光遇 雨林 烛子ikina",
+   "durationUs": 118108000,
+   "eventCount": 308,
+   "sourceId": "5024414c-7200-4fbe-a2c6-bae332a2a7ae",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0256_光遇小王子新季节bgm原创.txt",
+   "title": "光遇小王子新季节bgm原创",
+   "durationUs": 104220000,
+   "eventCount": 670,
+   "sourceId": "2de9a131-d05e-4dc5-8c7e-b23c59645302",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0257_克罗地亚狂想曲 烛子ikina.txt",
+   "title": "克罗地亚狂想曲 烛子ikina",
+   "durationUs": 145860000,
+   "eventCount": 1269,
+   "sourceId": "1f8fb5fe-f96e-40c6-8d54-947cee2853c4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0258_克罗地亚狂想曲.txt",
+   "title": "克罗地亚狂想曲",
+   "durationUs": 153693000,
+   "eventCount": 1269,
+   "sourceId": "d7637dc9-2269-4c8f-a238-1ca19d9331ac",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0259_六兆年と一夜物語(简谱(1).txt",
+   "title": "六兆年と一夜物語(简谱)",
+   "durationUs": 149020000,
+   "eventCount": 804,
+   "sourceId": "733163dc-321a-483b-923c-430aba4d0513",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0260_六兆年と一夜物語(简谱.txt",
+   "title": "六兆年と一夜物語(简谱)",
+   "durationUs": 149020000,
+   "eventCount": 804,
+   "sourceId": "e5aebfdd-f962-4a53-b061-4041b3c8b799",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0261_养云的猫.txt",
+   "title": "养云的猫",
+   "durationUs": 61692000,
+   "eventCount": 149,
+   "sourceId": "5a78e3d2-0d96-42e3-86d7-134e5a3d2be0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0262_冰柜.txt",
+   "title": "冰柜",
+   "durationUs": 135560000,
+   "eventCount": 923,
+   "sourceId": "0767ddfe-2251-49da-a98f-9b2621b47813",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0263_分裂—周杰伦.txt",
+   "title": "分裂—周杰伦",
+   "durationUs": 96060000,
+   "eventCount": 472,
+   "sourceId": "5535a6f8-d4c6-44ac-a9a4-19eb4edb6abd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0264_别怕我在.txt",
+   "title": "别怕我在",
+   "durationUs": 175060000,
+   "eventCount": 524,
+   "sourceId": "eff8cd20-06ab-43cb-bcc9-c5b441a3fab7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0265_勾指起誓.txt",
+   "title": "勾指起誓",
+   "durationUs": 126220000,
+   "eventCount": 778,
+   "sourceId": "96996e07-3d4f-45e7-b8a0-e57c7684c1a3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0266_匆匆那年.txt",
+   "title": "匆匆那年",
+   "durationUs": 153700000,
+   "eventCount": 716,
+   "sourceId": "5c31a68e-ca93-4078-8c48-642a60f1da15",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0267_北京东路的日子.txt",
+   "title": "北京东路的日子",
+   "durationUs": 194682000,
+   "eventCount": 683,
+   "sourceId": "cb158995-26e7-47fa-b0e3-54e10464707c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0268_千本桜.txt",
+   "title": "千本桜",
+   "durationUs": 236740000,
+   "eventCount": 3207,
+   "sourceId": "e0e95a4f-b44d-4773-9c65-9096281f5384",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0269_千本樱 Senbonzakura 烛子ikina.txt",
+   "title": "千本樱 Senbonzakura 烛子ikina",
+   "durationUs": 162244000,
+   "eventCount": 1574,
+   "sourceId": "713098eb-ec59-4f05-868b-b66b9c2ccd87",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0272_千本樱·改.txt",
+   "title": "千本樱·改",
+   "durationUs": 227452000,
+   "eventCount": 1830,
+   "sourceId": "f1c8562f-e19a-4cc8-9a1b-835913be4749",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0273_千本櫻_coko.txt",
+   "title": "千本櫻",
+   "durationUs": 231460000,
+   "eventCount": 2226,
+   "sourceId": "b88c1e43-3f42-4f5c-a3e8-154ba4ea3eb0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0274_千鸟城『 初版』AnAn作.txt",
+   "title": "千鸟城『 初版』AnAn作",
+   "durationUs": 59340000,
+   "eventCount": 159,
+   "sourceId": "2ee56ca6-24ba-44b5-9c7d-cfdf8ae1e5e1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0275_卡农 canon 烛子ikina.txt",
+   "title": "卡农 canon 烛子ikina",
+   "durationUs": 63420000,
+   "eventCount": 325,
+   "sourceId": "5106a425-3c12-4cf5-a22d-b5487ef763c1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0276_卡农—超酷炫技版.txt",
+   "title": "卡农—超酷炫技版",
+   "durationUs": 301350000,
+   "eventCount": 2962,
+   "sourceId": "eae90999-16fa-43e3-8c6e-8b632c061424",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0277_原神主题曲.txt",
+   "title": "原神主题曲",
+   "durationUs": 92516000,
+   "eventCount": 229,
+   "sourceId": "9a1d2db9-9904-43ef-ab8e-33026df72af0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0278_原神庆云顶音乐.txt",
+   "title": "原神庆云顶音乐",
+   "durationUs": 55500000,
+   "eventCount": 124,
+   "sourceId": "3f9ecfdc-450d-40cf-abe6-43d31a46b472",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0279_反方向的钟.txt",
+   "title": "反方向的钟",
+   "durationUs": 125356000,
+   "eventCount": 706,
+   "sourceId": "b3049639-ec13-4019-8cee-4348d670e2b4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0280_可不可以.txt",
+   "title": "可不可以",
+   "durationUs": 98628000,
+   "eventCount": 457,
+   "sourceId": "83c62fd1-8d96-4fe0-b40c-7434bd12f485",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0281_可乐.txt",
+   "title": "可乐",
+   "durationUs": 147148000,
+   "eventCount": 540,
+   "sourceId": "47a19936-8586-4322-b641-300e1dc1c069",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0282_可惜没如果.txt",
+   "title": "可惜没如果",
+   "durationUs": 111192000,
+   "eventCount": 476,
+   "sourceId": "28929a89-c242-4b99-b440-c79322b4b4b3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0283_后来.txt",
+   "title": "后来",
+   "durationUs": 216460000,
+   "eventCount": 1113,
+   "sourceId": "42c689ff-aa77-4923-9ff6-f7eb8125b6ac",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0284_向日葵.txt",
+   "title": "向日葵",
+   "durationUs": 163916000,
+   "eventCount": 882,
+   "sourceId": "23ac1f1d-3e19-4415-beb9-1a38e6bd1231",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0285_吹梦到西洲[By北北].txt",
+   "title": "吹梦到西洲",
+   "durationUs": 207502000,
+   "eventCount": 864,
+   "sourceId": "6fa36c2c-4e6a-4692-94e0-ddf398aad526",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0286_吹梦到西洲（笛）[By北北].txt",
+   "title": "吹梦到西洲（笛）[By北北]",
+   "durationUs": 207708000,
+   "eventCount": 1181,
+   "sourceId": "c938a11e-93fe-4732-bf10-a72c8d68ffcd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0287_告白气球.txt",
+   "title": "告白气球",
+   "durationUs": 99759000,
+   "eventCount": 203,
+   "sourceId": "dec0b7a8-f226-4fe8-a0e0-3e03835fe53c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0288_呜咽（papiyon）.txt",
+   "title": "呜咽",
+   "durationUs": 93440000,
+   "eventCount": 463,
+   "sourceId": "7069408e-f71d-42c9-b5e6-8090fc66a05a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0289_哀乐.txt",
+   "title": "哀乐.",
+   "durationUs": 80658000,
+   "eventCount": 767,
+   "sourceId": "7aa430a9-3a9e-4bb2-bf0f-0fa73f56adca",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0290_嘉宾.txt",
+   "title": "嘉宾",
+   "durationUs": 175260000,
+   "eventCount": 790,
+   "sourceId": "09f81ff2-5db8-40bc-9ef5-618e3b6bc64a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0291_嘿咻狂想曲.txt",
+   "title": "嘿咻狂想曲",
+   "durationUs": 72060000,
+   "eventCount": 288,
+   "sourceId": "8c0699de-e72f-4337-b51d-e3e51575a398",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0292_囍 chinese wedding 烛子ikina.txt",
+   "title": "囍 chinese wedding 烛子ikina",
+   "durationUs": 180284000,
+   "eventCount": 1343,
+   "sourceId": "f12aba55-25b2-4e27-8141-48f5aea86b22",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0293_四季予你.txt",
+   "title": "四季予你",
+   "durationUs": 163020000,
+   "eventCount": 831,
+   "sourceId": "3c4dd466-907c-4131-9ba5-4a8b38014e9c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0294_四季折の羽_savffy.txt",
+   "title": "四季折の羽",
+   "durationUs": 303298000,
+   "eventCount": 3677,
+   "sourceId": "9799f699-f374-4ce1-9066-3aae4b248fec",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0295_四月是你的谎言_UTF16.txt",
+   "title": "四月是你的谎言",
+   "durationUs": 129560000,
+   "eventCount": 680,
+   "sourceId": "6cd263d9-8cfc-475f-8254-af47c1e6bfba",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0296_因为你 所以我.txt",
+   "title": "因为你 所以我",
+   "durationUs": 106460000,
+   "eventCount": 568,
+   "sourceId": "0cf5cb7e-a6e2-49ba-8147-9a527a0590af",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0297_团子大家族 烛子ikina.txt",
+   "title": "团子大家族 烛子ikina",
+   "durationUs": 151260000,
+   "eventCount": 389,
+   "sourceId": "41e5deb0-5912-461b-b658-a4da716d5c90",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0298_土耳其进行曲(莫扎特).txt",
+   "title": "土耳其进行曲(莫扎特)",
+   "durationUs": 202104000,
+   "eventCount": 2510,
+   "sourceId": "3e6f7359-5a92-46e2-b1c0-a90d0c38e8b0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0299_圣诞结—陈奕迅（沫忆）.txt",
+   "title": "圣诞结—陈奕迅（沫忆）",
+   "durationUs": 113820000,
+   "eventCount": 656,
+   "sourceId": "cb7cb1b3-8de0-48e1-a504-95cc7dc90386",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0300_坏苹果.txt",
+   "title": "坏苹果",
+   "durationUs": 105636000,
+   "eventCount": 641,
+   "sourceId": "201aa1f6-18c6-4e3c-b33d-5e26d48da43e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0302_坏苹果Bad Apple.txt",
+   "title": "坏苹果Bad Apple 烛子ikina",
+   "durationUs": 75900000,
+   "eventCount": 638,
+   "sourceId": "c4905f86-fb57-4bb5-b82f-97e2961f4807",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0303_坠落星空 falling stars 烛子ikina.txt",
+   "title": "坠落星空 falling stars 烛子ikina",
+   "durationUs": 87308000,
+   "eventCount": 318,
+   "sourceId": "16561b72-b6d6-4bce-9701-733a3b12459e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0304_坠落星空.txt",
+   "title": "坠落星空",
+   "durationUs": 98049000,
+   "eventCount": 219,
+   "sourceId": "1a996684-7b86-4417-9054-07b6c5980d33",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0305_城南花已开(孟德).txt",
+   "title": "城南花已开(孟德)",
+   "durationUs": 62560000,
+   "eventCount": 384,
+   "sourceId": "a6e7e5bf-38e0-47f3-9e8d-b825d7430a22",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0306_处处吻-杨千嬅.txt",
+   "title": "处处吻-杨千嬅",
+   "durationUs": 62460000,
+   "eventCount": 423,
+   "sourceId": "a8fabb45-9cce-48fe-b67b-8d9ee21ee643",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0307_夏天的风 summer breeze 烛子ikina.txt",
+   "title": "夏天的风 summer breeze 烛子ikina",
+   "durationUs": 122940000,
+   "eventCount": 384,
+   "sourceId": "a0a1ab0e-d56b-487c-83b9-ac2a5cff6c58",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0308_夏天的风_UTF16.txt",
+   "title": "夏天的风",
+   "durationUs": 82476000,
+   "eventCount": 211,
+   "sourceId": "c6cc4baa-7183-4d71-b8cb-64706e86dc67",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0309_外婆的澎湖湾.txt",
+   "title": "外婆的澎湖湾",
+   "durationUs": 177276000,
+   "eventCount": 397,
+   "sourceId": "0c58c7b9-c59e-4861-a0e6-7e595ed0dff6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0310_夜之钢琴曲五.txt",
+   "title": "夜之钢琴曲五",
+   "durationUs": 166622000,
+   "eventCount": 862,
+   "sourceId": "7fad663c-5589-4830-aae1-cc387e011f57",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0311_夜曲.txt",
+   "title": "夜曲",
+   "durationUs": 125920000,
+   "eventCount": 985,
+   "sourceId": "6aa037aa-4ca2-4ac4-bc01-95b424e586ad",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0312_夜的钢琴曲(五).txt",
+   "title": "夜的钢琴曲(五)",
+   "durationUs": 208860000,
+   "eventCount": 947,
+   "sourceId": "b5a9bcf1-bde4-41d4-a6ef-4da8c67cfa71",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0313_夜空中最亮的星.txt",
+   "title": "夜空中最亮的星",
+   "durationUs": 216330000,
+   "eventCount": 1512,
+   "sourceId": "ec9137ac-170f-4bbe-81cb-8232e75e5fc5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0314_大悲咒.txt",
+   "title": "大悲咒",
+   "durationUs": 146553000,
+   "eventCount": 314,
+   "sourceId": "79682ffa-b896-4a17-b8aa-3faf310be2b6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0315_大田后生仔.txt",
+   "title": "大田后生仔",
+   "durationUs": 86760000,
+   "eventCount": 399,
+   "sourceId": "969f5f62-5aee-4620-a136-4bebc70e80d7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0316_大雾.txt",
+   "title": "大雾",
+   "durationUs": 121740000,
+   "eventCount": 649,
+   "sourceId": "4e028835-f886-42f4-bb09-0fab9f12d655",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0317_大鱼 独奏-星铭(8).txt",
+   "title": "大鱼 独奏-星铭",
+   "durationUs": 300464000,
+   "eventCount": 1250,
+   "sourceId": "2ce105ed-7eb3-406e-b223-6714370bc626",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0318_大鱼(1).txt",
+   "title": "大鱼",
+   "durationUs": 88860000,
+   "eventCount": 164,
+   "sourceId": "9b00525d-0438-4370-83d2-d5813b960275",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0322_天使的心跳.txt",
+   "title": "天使的心跳",
+   "durationUs": 92142000,
+   "eventCount": 418,
+   "sourceId": "2f3d85a8-5809-4f6e-976b-6de2bd6e1cf2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0323_天使的领刚.txt",
+   "title": "Untitle",
+   "durationUs": 156810000,
+   "eventCount": 1096,
+   "sourceId": "147b038d-7c1b-4858-b92f-6f9579af6280",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0324_天堂岛之歌.txt",
+   "title": "天堂岛之歌",
+   "durationUs": 132414000,
+   "eventCount": 507,
+   "sourceId": "84af5abe-cb81-4fc2-b298-7c31721e0f06",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0325_天外来物(暴躁).txt",
+   "title": "天外来物(暴躁)",
+   "durationUs": 139755000,
+   "eventCount": 433,
+   "sourceId": "1a9d2e1e-ee71-4499-980e-134f25f66539",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0326_天空之城 伴随着你.txt",
+   "title": "天空之城  伴随着你",
+   "durationUs": 204860000,
+   "eventCount": 224,
+   "sourceId": "29d7b5a9-fa81-4fd0-9a92-1c736d07b806",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0327_天空之城.txt",
+   "title": "天空之城",
+   "durationUs": 63560000,
+   "eventCount": 111,
+   "sourceId": "34365998-e238-4e59-8c31-11dabe9b1f1d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0328_失眠飞行 insomnia flight.txt",
+   "title": "失眠飞行 insomnia flight 烛子ikina",
+   "durationUs": 63804000,
+   "eventCount": 454,
+   "sourceId": "55304538-df9b-4ccb-8aaf-ab732e1f5de9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0329_失语症.txt",
+   "title": "失语症",
+   "durationUs": 105468000,
+   "eventCount": 681,
+   "sourceId": "f65f5a08-ade9-4858-b48e-49e83709331b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0330_奇妙能力歌.txt",
+   "title": "奇妙能力歌",
+   "durationUs": 110810000,
+   "eventCount": 518,
+   "sourceId": "8df3fb37-f94f-406b-8413-d2544a15d982",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0331_奏之曲.txt",
+   "title": "奏之曲",
+   "durationUs": 194060000,
+   "eventCount": 271,
+   "sourceId": "174eb27c-d52a-434c-a683-7203a29bbb70",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0332_她说.txt",
+   "title": "她说",
+   "durationUs": 113236000,
+   "eventCount": 187,
+   "sourceId": "089e77a3-5837-4bbe-bc82-c6fde90c112a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0333_好久不见——贰肆.txt",
+   "title": "好久不见——贰肆",
+   "durationUs": 234684000,
+   "eventCount": 862,
+   "sourceId": "c75e5295-29dd-4579-a77c-c56499162420",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0334_好想爱这个世界啊 烛子ikina.txt",
+   "title": "好想爱这个世界啊 烛子ikina",
+   "durationUs": 203516000,
+   "eventCount": 976,
+   "sourceId": "17f77925-ebcc-4de3-ad1a-80cc4be878a2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0335_好想爱这个世界啊.txt",
+   "title": "好想爱这个世界啊",
+   "durationUs": 407460000,
+   "eventCount": 1477,
+   "sourceId": "58a2885a-413c-418b-90c5-4c0499a75595",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0336_妄想税.txt",
+   "title": "妄想税                                                                                           daze哒",
+   "durationUs": 71360000,
+   "eventCount": 460,
+   "sourceId": "b588249b-68d1-4e71-b7ae-375b4116cba4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0337_妖精的尾巴(黒子これも).txt",
+   "title": "妖精的尾巴",
+   "durationUs": 187260000,
+   "eventCount": 1152,
+   "sourceId": "1fb6d575-bffb-44e9-910f-04350ce57221",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0338_威风堂堂 烛子ikina.txt",
+   "title": "威风堂堂 烛子ikina",
+   "durationUs": 184175000,
+   "eventCount": 1537,
+   "sourceId": "ba2b91d7-45c5-4e51-9a8f-070e5a39b019",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0339_威风堂堂.txt",
+   "title": "威风堂堂",
+   "durationUs": 188538000,
+   "eventCount": 1367,
+   "sourceId": "39a32956-0466-4dd2-8071-bbbdc63aa4b8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0340_婚礼进行曲(整活用).txt",
+   "title": "婚礼进行曲(整活用)",
+   "durationUs": 58268000,
+   "eventCount": 77,
+   "sourceId": "4abb9086-d7c7-4a4f-beb2-0805b2fc4283",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0341_宝贝宝贝.txt",
+   "title": "宝贝宝贝",
+   "durationUs": 58250000,
+   "eventCount": 256,
+   "sourceId": "d751245f-0054-45ce-bf4b-d29e1f208706",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0342_家有女友op 声嘶力竭 crying for rain 烛子ikina.txt",
+   "title": "家有女友op 声嘶力竭 crying for rain 烛子ikina",
+   "durationUs": 55972000,
+   "eventCount": 315,
+   "sourceId": "c180a875-b9a3-48b3-ad2d-f490607397bc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0343_寂寞沙洲冷.txt",
+   "title": "寂寞沙洲冷",
+   "durationUs": 72225000,
+   "eventCount": 320,
+   "sourceId": "71907645-d0cb-454c-af81-a9dabb52285d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0344_寂静之空(暴躁).txt",
+   "title": "寂静之空(暴躁)",
+   "durationUs": 435040000,
+   "eventCount": 2058,
+   "sourceId": "ae6dd111-7c0a-4fae-846b-577f31e1e3b3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0345_对面的女孩看过来—任贤齐.txt",
+   "title": "对面的女孩看过来—任贤齐",
+   "durationUs": 58810000,
+   "eventCount": 261,
+   "sourceId": "ba64cac5-a764-4350-a557-d03eec87c7eb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0346_对面的女孩看过来—重制版（沫忆）.txt",
+   "title": "对面的女孩看过来—重制版（沫忆）",
+   "durationUs": 107060000,
+   "eventCount": 806,
+   "sourceId": "21bfceab-350a-4410-87a6-5513067b1551",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0347_小半.txt",
+   "title": "小半 ",
+   "durationUs": 88940000,
+   "eventCount": 391,
+   "sourceId": "86d82375-bbea-481b-a304-eda6ed6a7901",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0348_小宇.txt",
+   "title": "小宇",
+   "durationUs": 177864000,
+   "eventCount": 452,
+   "sourceId": "d9d09c10-c12c-47f6-8e5b-1132738c278a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0349_小幸运.txt",
+   "title": "小幸运",
+   "durationUs": 139360000,
+   "eventCount": 532,
+   "sourceId": "f53b6cf3-c6b6-470b-ae9b-3b4822e1e530",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0350_小情歌.txt",
+   "title": "小情歌",
+   "durationUs": 189705000,
+   "eventCount": 870,
+   "sourceId": "8315b181-b7c6-4385-9443-84f99fd95218",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0351_小鸠 即将到来的明天 演奏版 Kobato 烛子ikina.txt",
+   "title": "小鸠 演奏版 Kobato 烛子ikina",
+   "durationUs": 83292000,
+   "eventCount": 166,
+   "sourceId": "d3d974b4-58e2-4422-9740-e70fbf3b22cc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0352_尘埃.txt",
+   "title": "尘埃(1)",
+   "durationUs": 199416000,
+   "eventCount": 1171,
+   "sourceId": "da64d178-5809-4a48-80a1-69ccaf08b680",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0353_尽管我们手中空无一物.txt",
+   "title": "尽管我们手中空无一物",
+   "durationUs": 161763000,
+   "eventCount": 1133,
+   "sourceId": "78e71b68-496e-44b9-a4c2-548bbbe3569f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0354_山鬼独奏谱（笛）[By北北].txt",
+   "title": "山鬼合奏谱（笛）",
+   "durationUs": 112326000,
+   "eventCount": 1023,
+   "sourceId": "ad365e3e-5b79-49ed-82a4-e9855d375a23",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0355_岸上的金鱼姬（maintheme）.txt",
+   "title": "岸上的金鱼姬（maintheme）",
+   "durationUs": 73352000,
+   "eventCount": 183,
+   "sourceId": "cd85c62e-df76-412f-840b-82b6ac7fef47",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0356_崖の上のポニョ_savffy.txt",
+   "title": "崖の上のポニョ",
+   "durationUs": 121020000,
+   "eventCount": 1232,
+   "sourceId": "9a88404d-5e31-407c-ad15-934b65587cfb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0357_干物女.txt",
+   "title": "干物女",
+   "durationUs": 63060000,
+   "eventCount": 237,
+   "sourceId": "ae2e3e60-a7c2-4c41-9af9-e29a9157dafb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0358_平凡之路.txt",
+   "title": "平凡之路",
+   "durationUs": 90460000,
+   "eventCount": 210,
+   "sourceId": "a73b0b92-d20e-438c-ab30-188219b85ccf",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0359_幻听.txt",
+   "title": "幻听",
+   "durationUs": 109560000,
+   "eventCount": 351,
+   "sourceId": "4a768348-09b9-4116-a436-f89dadcbfd40",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0360_幻昼-全谱4乐器.txt",
+   "title": "《幻昼-全谱4乐器》何以解忧",
+   "durationUs": 213130000,
+   "eventCount": 1328,
+   "sourceId": "47e07c60-b9ec-4eed-8736-23f910cc6cab",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0361_幻昼CH_UTF16.txt",
+   "title": "幻昼CH",
+   "durationUs": 56760000,
+   "eventCount": 204,
+   "sourceId": "c2e66e40-03c5-409e-8a66-73542dc84897",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0362_幽灵东京.txt",
+   "title": "幽灵东京",
+   "durationUs": 99075000,
+   "eventCount": 389,
+   "sourceId": "5de9d0e6-64ed-4492-bec9-6d9639e123ef",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0363_庐州月.txt",
+   "title": "庐州月",
+   "durationUs": 90560000,
+   "eventCount": 296,
+   "sourceId": "e92126b8-17f6-4e54-b8ef-30a531e7faab",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0364_廻廻奇譚.txt",
+   "title": "廻廻奇譚",
+   "durationUs": 84886000,
+   "eventCount": 1091,
+   "sourceId": "9c797a03-b71e-428d-8b63-2fd0e63030d7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0365_微微.txt",
+   "title": "微微",
+   "durationUs": 74148000,
+   "eventCount": 172,
+   "sourceId": "03e1ece1-8546-4c80-985d-5ebfa2fce2b3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0366_德彪西 月光 debussy clair de lune 烛子ikina.txt",
+   "title": "德彪西 月光 debussy clair de lune 烛子ikina",
+   "durationUs": 109080000,
+   "eventCount": 384,
+   "sourceId": "47fa4e97-c85a-4613-a650-73080d6cb4c8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0367_心做し komoronashi 烛子ikina.txt",
+   "title": "心做し komoronashi 烛子ikina",
+   "durationUs": 125674000,
+   "eventCount": 542,
+   "sourceId": "1c7586f0-3a67-4e54-a3a2-dc3b5276a112",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0368_心若向阳(暴躁).txt",
+   "title": "心若向阳(暴躁)",
+   "durationUs": 282496000,
+   "eventCount": 1139,
+   "sourceId": "5a0914a5-fe9a-4142-9853-aace70f65938",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0369_心若向阳.txt",
+   "title": "心若向阳",
+   "durationUs": 207624000,
+   "eventCount": 845,
+   "sourceId": "3a070886-b45e-4325-9728-7f23f0fcc1b1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0370_忽然之间-简.txt",
+   "title": "忽然之间-简",
+   "durationUs": 83780000,
+   "eventCount": 293,
+   "sourceId": "2708386a-fc66-40ca-82b3-36d6459541e9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0371_怪可爱的.txt",
+   "title": "怪可爱的",
+   "durationUs": 176684000,
+   "eventCount": 586,
+   "sourceId": "5d7d6ea4-3999-4cd3-9d84-d63a5d5db5a3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0372_怪咖.txt",
+   "title": "怪咖",
+   "durationUs": 104310000,
+   "eventCount": 454,
+   "sourceId": "f04a3950-57e3-4336-921c-aeeaa2b1401d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0373_恋爱循环.txt",
+   "title": "恋爱循环",
+   "durationUs": 57060000,
+   "eventCount": 433,
+   "sourceId": "02a9eb84-2c2d-4489-89c3-6a0c3e869cc4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0374_恋爱循环Renai Circulation 烛子ikina.txt",
+   "title": "恋爱循环Renai Circulation 烛子ikina",
+   "durationUs": 57060000,
+   "eventCount": 442,
+   "sourceId": "6f9ca517-3b83-4974-99e8-41bc7eb58ae0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0377_恋爱裁判（40mP）.txt",
+   "title": "恋爱裁判",
+   "durationUs": 98220000,
+   "eventCount": 495,
+   "sourceId": "dec03774-1316-4874-90c4-747f9dc9c76f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0378_悬溺大神版.txt",
+   "title": "悬溺大神版",
+   "durationUs": 157735000,
+   "eventCount": 1176,
+   "sourceId": "add40b47-bdda-4626-a940-4c1cbc609434",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0380_情书 luv letter 烛子ikina.txt",
+   "title": "情书 luv letter 烛子ikina",
+   "durationUs": 260348000,
+   "eventCount": 1837,
+   "sourceId": "4fea315d-baa4-4fe9-89d1-400aba5f4fd6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0381_情歌王.txt",
+   "title": "情歌王",
+   "durationUs": 534324000,
+   "eventCount": 2502,
+   "sourceId": "92f42531-259f-4a56-923b-84f1108cc47a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0382_情非得已.txt",
+   "title": "情非得已",
+   "durationUs": 211356000,
+   "eventCount": 1044,
+   "sourceId": "3e2c8a9b-7279-4670-9ad2-0906f3408534",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0383_慢慢喜欢你.txt",
+   "title": "月白专属",
+   "durationUs": 86331000,
+   "eventCount": 238,
+   "sourceId": "0fc7c4a4-9a95-423e-a452-07d7f8a9b94e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0384_慢热.txt",
+   "title": "慢热",
+   "durationUs": 56310000,
+   "eventCount": 336,
+   "sourceId": "f509e457-942e-4eb4-a32b-2611645d0752",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0385_成全.txt",
+   "title": "成全 ",
+   "durationUs": 212866000,
+   "eventCount": 1125,
+   "sourceId": "457f9a90-cdc1-4468-880f-d5bd2fe18632",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0386_我不愿让你一个人 bilibili南北阿奇.txt",
+   "title": "我不愿让你一个人 bilibili南北阿奇",
+   "durationUs": 98060000,
+   "eventCount": 259,
+   "sourceId": "881bb001-7068-4ff9-8fad-2b21ffbcf38b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0387_我不配—周杰伦.txt",
+   "title": "我不配—周杰伦",
+   "durationUs": 96060000,
+   "eventCount": 622,
+   "sourceId": "3708bd8b-9aee-4570-a2ae-70bcabde11ee",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0388_我们的冒险.txt",
+   "title": "我们的冒险",
+   "durationUs": 97221000,
+   "eventCount": 892,
+   "sourceId": "dfe72cd8-0bd1-48c5-b5dc-13db84671aa4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0389_我在东北玩泥巴.txt",
+   "title": "我在东北玩泥巴",
+   "durationUs": 87644000,
+   "eventCount": 880,
+   "sourceId": "c46f78b4-0a31-4e3e-9ded-75a6c0af06a0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0390_我好像在哪儿见过你.txt",
+   "title": "我好像在哪儿见过你",
+   "durationUs": 174660000,
+   "eventCount": 530,
+   "sourceId": "2965a1ef-bacb-4236-987a-a7a1a9a9f6d3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0391_我心永恒My heart will go on.txt",
+   "title": "My heart will go on",
+   "durationUs": 119036000,
+   "eventCount": 487,
+   "sourceId": "6d75e678-bab7-4e99-a97c-ad8b559c45ac",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0392_我还有点小糊涂.txt",
+   "title": "我还有点小糊涂",
+   "durationUs": 67020000,
+   "eventCount": 733,
+   "sourceId": "1729bedb-f6b7-4936-8ef8-c31664d4f308",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0393_所念皆星河.txt",
+   "title": "所念皆星河",
+   "durationUs": 216276000,
+   "eventCount": 935,
+   "sourceId": "9500f99a-4c66-404a-a2e4-09b1371c4776",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0394_打上花火 fireworks 烛子ikina.txt",
+   "title": "打上花火 fireworks 烛子ikina",
+   "durationUs": 187944000,
+   "eventCount": 840,
+   "sourceId": "b94ff36a-7f3b-448b-9545-63b49293b50b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0395_打上花火.txt",
+   "title": "打上花火",
+   "durationUs": 278595000,
+   "eventCount": 1449,
+   "sourceId": "d65f6774-509c-49b1-acd8-1c87e26191a1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0396_打上花火_UTF16.txt",
+   "title": "打上花火",
+   "durationUs": 97660000,
+   "eventCount": 282,
+   "sourceId": "d3cc672c-aa04-4825-aa1b-ff4ca504c55d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0397_扭腰歌 carameldansen 烛子ikina.txt",
+   "title": "扭腰歌 carameldansen 烛子ikina",
+   "durationUs": 72600000,
+   "eventCount": 394,
+   "sourceId": "65b60d89-8f5a-4184-8c7c-7eca2508d672",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0398_拔剑神曲βios.txt",
+   "title": "拔剑神曲βios",
+   "durationUs": 233691000,
+   "eventCount": 2264,
+   "sourceId": "d7363c5e-7f4b-4f24-b9b2-078630615d9e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0399_撒野完整版.txt",
+   "title": "撒野完整版",
+   "durationUs": 204810000,
+   "eventCount": 605,
+   "sourceId": "6577309d-4055-468e-96e7-4aaa973abe34",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0400_故梦.txt",
+   "title": "故梦",
+   "durationUs": 100060000,
+   "eventCount": 271,
+   "sourceId": "1ad5471f-2e49-47d0-ad39-9b91ef47dda8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0401_无人区.txt",
+   "title": "无人区",
+   "durationUs": 153942000,
+   "eventCount": 1315,
+   "sourceId": "a69e97f2-1a51-46f0-b210-fc7f09e9c512",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0402_无梦之梦.txt",
+   "title": "无梦之梦",
+   "durationUs": 214239000,
+   "eventCount": 1169,
+   "sourceId": "ff64556b-cb15-4f54-8a87-ff36393cc091",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0403_无梦之梦简单.txt",
+   "title": "无梦之梦",
+   "durationUs": 126100000,
+   "eventCount": 555,
+   "sourceId": "9924b51c-ea22-4aad-8537-d4ca4485fec8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0404_无羁 烛子ikina.txt",
+   "title": "无羁 烛子ikina",
+   "durationUs": 98028000,
+   "eventCount": 365,
+   "sourceId": "0a3d22ed-7f58-4131-8761-fb1cea1eb7a0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0405_无论你多怪异我还是会喜欢你—刺客伍六七.txt",
+   "title": "无论你多怪异我还是会喜欢你—刺客伍六七",
+   "durationUs": 216060000,
+   "eventCount": 446,
+   "sourceId": "fa81039f-9b21-4c3c-a3c3-d3a8e5cb3d74",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0406_时间都去哪儿了.txt",
+   "title": "时间都去哪儿了",
+   "durationUs": 177900000,
+   "eventCount": 1019,
+   "sourceId": "2996a873-ddb0-4957-913e-daf357eac69b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0407_时间飞行 镇魂.txt",
+   "title": "时间飞行 镇魂",
+   "durationUs": 112060000,
+   "eventCount": 285,
+   "sourceId": "8330ad21-f28c-4c7f-8aa8-b02f085dd38a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0408_易燃易爆炸.txt",
+   "title": "易燃易爆炸",
+   "durationUs": 93060000,
+   "eventCount": 518,
+   "sourceId": "2f6e8b05-e7dc-4f2f-b977-f84c19416d9d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0409_星星在唱歌ꦿ(A).txt",
+   "title": "星星在唱歌ꦿ(A)",
+   "durationUs": 106514000,
+   "eventCount": 693,
+   "sourceId": "d220d498-2fdb-415a-b1da-c9c5ef25a07d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0410_星月神话.txt",
+   "title": "星月神话",
+   "durationUs": 57996000,
+   "eventCount": 220,
+   "sourceId": "f4cf4710-ffe8-4a46-ad96-7136b5e2ba88",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0411_星河万里(精简).txt",
+   "title": "星河万里(精简)",
+   "durationUs": 90082000,
+   "eventCount": 345,
+   "sourceId": "3beb9a73-484b-4c21-a45d-04ded26f6d12",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0412_星茶会（高音钢琴C调）.txt",
+   "title": "星茶会（高音钢琴C调）",
+   "durationUs": 190460000,
+   "eventCount": 1178,
+   "sourceId": "be092dc0-d313-49cd-b458-5d5a6f2eaaf5",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0413_星辰大海(暴躁).txt",
+   "title": "星辰大海(暴躁)",
+   "durationUs": 227542000,
+   "eventCount": 1322,
+   "sourceId": "72fca6dc-5ea7-4bbc-8b2e-51c4996894e9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0414_星辰大海（白术）.txt",
+   "title": "星辰大海",
+   "durationUs": 144952000,
+   "eventCount": 728,
+   "sourceId": "8acdc8b1-5f91-417c-8c42-f2a9e0e35240",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0415_春弦.txt",
+   "title": "春弦",
+   "durationUs": 146364000,
+   "eventCount": 760,
+   "sourceId": "1349eb36-4d4b-438f-b1cc-ee4b04c62ff9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0416_晚夜微雨问海棠.txt",
+   "title": "晚夜微雨问海棠",
+   "durationUs": 274576000,
+   "eventCount": 1137,
+   "sourceId": "16652ef9-bc3c-4b64-b6b0-1f9cb208d457",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0417_晚安.txt",
+   "title": "晚安",
+   "durationUs": 95060000,
+   "eventCount": 491,
+   "sourceId": "17af3f9a-3b9b-4031-8226-5d6ff4b9bdbe",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0418_晚风.txt",
+   "title": "晚风",
+   "durationUs": 73060000,
+   "eventCount": 259,
+   "sourceId": "f1fadff8-51d3-49b9-b37e-d508d1f842a4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0419_晴天.txt",
+   "title": "晴天",
+   "durationUs": 117860000,
+   "eventCount": 490,
+   "sourceId": "36e3f6a0-e174-46f3-842d-cda1b492da5f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0420_暖暖.txt",
+   "title": "暖暖",
+   "durationUs": 165660000,
+   "eventCount": 950,
+   "sourceId": "d711873a-3079-44f4-abff-0979fea3db36",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0421_曹操.txt",
+   "title": "曹操",
+   "durationUs": 58060000,
+   "eventCount": 295,
+   "sourceId": "fa560901-a33e-4f79-b34c-727da0c7ad12",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0422_曾经我也想过一了百了.txt",
+   "title": "曾经我也想过一了百了",
+   "durationUs": 123749000,
+   "eventCount": 791,
+   "sourceId": "2c783139-d5f8-4358-8fb2-2a96ffbe8d07",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0423_最佳损友.txt",
+   "title": "最佳损友",
+   "durationUs": 174460000,
+   "eventCount": 1096,
+   "sourceId": "b6dd2e9f-40aa-405e-a76c-780d33d9ae5e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0424_最炫民族风 烛子ikina.txt",
+   "title": "最炫民族风 烛子ikina",
+   "durationUs": 80764000,
+   "eventCount": 667,
+   "sourceId": "517f30bf-ef3c-4eaa-b7ff-40c3b30d8b4c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0425_月亮船.txt",
+   "title": "月亮船",
+   "durationUs": 192560000,
+   "eventCount": 1416,
+   "sourceId": "d744b5a5-a82c-41ae-b476-c28ea2b6d1d3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0426_月光传说.txt",
+   "title": "月光传说",
+   "durationUs": 80310000,
+   "eventCount": 564,
+   "sourceId": "88f2b7dd-e56f-4aa1-ac58-8544e1148edb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0427_月半小夜曲.txt",
+   "title": "月半小夜曲",
+   "durationUs": 192660000,
+   "eventCount": 686,
+   "sourceId": "0d910099-a93e-46af-9416-506eb9340af4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0428_有何不可.txt",
+   "title": "有何不可",
+   "durationUs": 88040000,
+   "eventCount": 534,
+   "sourceId": "43e27fb6-08f8-44c1-a4cb-a15630180b57",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0429_有点甜（和弦版）Dcedillbey.txt",
+   "title": "有点甜（和弦版）Dcedillbey",
+   "durationUs": 175044000,
+   "eventCount": 603,
+   "sourceId": "a6ccc3bc-0500-4732-8c98-4d367b5de212",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0430_朗朗晴天ハレハレヤ.txt",
+   "title": "朗朗晴天ハレハレヤ",
+   "durationUs": 89820000,
+   "eventCount": 511,
+   "sourceId": "fa80ec20-9d0c-4930-aaf0-3e84ff4ffcfb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0431_朧月（minato）.txt",
+   "title": "朧月",
+   "durationUs": 115575000,
+   "eventCount": 249,
+   "sourceId": "8690cbd6-14f4-4170-bf76-d706457bd118",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0432_未闻花名 anohana 烛子ikina.txt",
+   "title": "未闻花名 anohana 烛子ikina",
+   "durationUs": 200700000,
+   "eventCount": 1230,
+   "sourceId": "a817da9a-e522-4cc5-86e4-a040bdc828e6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0433_未闻花名 anohana 简易easy 烛子ikina.txt",
+   "title": "未闻花名 anohana 简易easy 烛子ikina",
+   "durationUs": 122940000,
+   "eventCount": 507,
+   "sourceId": "7bc0d52c-a1a4-4624-acbe-dfc4f1137ba3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0434_未闻花名.txt",
+   "title": "未闻花名",
+   "durationUs": 77560000,
+   "eventCount": 266,
+   "sourceId": "9ad6df7c-4e42-4602-af2f-2aa6b5759769",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0435_杀死那个石家庄人.txt",
+   "title": "杀死那个石家庄人",
+   "durationUs": 147536000,
+   "eventCount": 885,
+   "sourceId": "78198730-876d-4029-9a1c-1329a95fd110",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0436_极乐净土 孟德.txt",
+   "title": "极乐净土  孟德",
+   "durationUs": 83560000,
+   "eventCount": 483,
+   "sourceId": "8dddac19-b70a-46f5-a906-b63abe618c7d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0437_极乐净土(孟德) 完整.txt",
+   "title": "极乐净土(孟德)  完整",
+   "durationUs": 83560000,
+   "eventCount": 521,
+   "sourceId": "8ff8561b-2557-4fff-a6c2-82d164548714",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0438_极乐净土(暴躁).txt",
+   "title": "极乐净土(暴躁)",
+   "durationUs": 161655000,
+   "eventCount": 1368,
+   "sourceId": "c5802a04-0527-47ba-bfc4-d3ca760ad49a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0439_极乐净土（和弦）.txt",
+   "title": "极乐净土（和弦）",
+   "durationUs": 85068000,
+   "eventCount": 531,
+   "sourceId": "0eb887bb-faed-4c5b-83a2-7e7f07892130",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0440_极乐净土（无和弦）.txt",
+   "title": "极乐净土（无和弦）",
+   "durationUs": 184300000,
+   "eventCount": 617,
+   "sourceId": "fb7c683d-1cc3-4173-84d6-e994bda210fa",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0441_果仁糖.txt",
+   "title": "果仁糖",
+   "durationUs": 95883000,
+   "eventCount": 373,
+   "sourceId": "06e5cb97-3f9a-443d-affb-bcbf65329e4f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0442_核爆神曲aLiez 烛子ikina.txt",
+   "title": "核爆神曲aLiez 烛子ikina",
+   "durationUs": 99744000,
+   "eventCount": 678,
+   "sourceId": "bedb7faf-7e81-44a3-bddc-a1a05b600608",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0443_核爆神曲aLiez简易版 烛子ikina.txt",
+   "title": "核爆神曲aLiez简易版 烛子ikina",
+   "durationUs": 99744000,
+   "eventCount": 419,
+   "sourceId": "e98770f2-9d19-461c-b9ad-c4f29568e7bb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0444_梦中的婚礼.txt",
+   "title": "梦中的婚礼",
+   "durationUs": 67820000,
+   "eventCount": 342,
+   "sourceId": "742dc453-70ea-4974-8774-3a6e4d3a0c05",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0445_梦龙shots.txt",
+   "title": "梦龙shots",
+   "durationUs": 183980000,
+   "eventCount": 1517,
+   "sourceId": "ae9094b0-24db-4c0b-bb61-908acc5440e2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0446_樱之雨【稿】.txt",
+   "title": "樱之雨【稿】",
+   "durationUs": 76038000,
+   "eventCount": 222,
+   "sourceId": "65ce408b-0b2a-4ef1-86e3-6fb4b65e1169",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0447_樱花樱花想见你.txt",
+   "title": "樱花樱花想见你",
+   "durationUs": 378810000,
+   "eventCount": 956,
+   "sourceId": "420b1cd8-1890-4d38-b939-4b9b41c3158d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0448_欢和弦.txt",
+   "title": "欢和弦",
+   "durationUs": 68810000,
+   "eventCount": 195,
+   "sourceId": "91117fe0-0580-46db-859f-b85807f56e6c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0449_死寂(暴躁).txt",
+   "title": "死寂(暴躁)",
+   "durationUs": 103019000,
+   "eventCount": 575,
+   "sourceId": "6edab732-d352-47a3-b412-8d97240f8eaf",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0450_残酷天使的行动纲领.txt",
+   "title": "残酷天使的行动纲领",
+   "durationUs": 97810000,
+   "eventCount": 523,
+   "sourceId": "73580e5a-e2d9-40fc-9af8-bf8b3969cb9e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0451_気ままな天使ーたち.txt",
+   "title": "気ままな天使ーたち",
+   "durationUs": 89905000,
+   "eventCount": 779,
+   "sourceId": "28495365-992b-404d-8278-8a07cf165a21",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0453_水边的阿狄丽.txt",
+   "title": "水边的阿狄丽",
+   "durationUs": 79460000,
+   "eventCount": 474,
+   "sourceId": "fea802b9-6a95-46f2-9665-d0f11ffb0b3c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0454_水边的阿狄丽娜 Ballade pour Adeline 烛子ikina.txt",
+   "title": "水边的阿狄丽娜 Ballade pour Adeline 烛子ikina",
+   "durationUs": 75132000,
+   "eventCount": 449,
+   "sourceId": "fa37985a-1adf-4179-9c8e-a9b08cdff9e2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0455_永不失联的爱(暴躁).txt",
+   "title": "永不失联的爱(暴躁)",
+   "durationUs": 169980000,
+   "eventCount": 698,
+   "sourceId": "faa93b83-5c35-4a30-8d65-01e36ff2650a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0456_永不失联的爱.txt",
+   "title": "永不失联的爱",
+   "durationUs": 111292000,
+   "eventCount": 347,
+   "sourceId": "25098f36-a430-46d3-8023-a0a8c27730c0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0457_洛神赋(黒子これも).txt",
+   "title": "洛神赋(黒子これも)",
+   "durationUs": 226044000,
+   "eventCount": 605,
+   "sourceId": "c1b72c54-160c-4ab8-83f0-eefe68bc89a1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0458_测试.txt",
+   "title": "卡农—超酷炫技版",
+   "durationUs": 301350000,
+   "eventCount": 2962,
+   "sourceId": "a6ec0bc1-fefe-4ebd-8999-bde2b077b61d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0459_浪流连.txt",
+   "title": "浪流连",
+   "durationUs": 61260000,
+   "eventCount": 267,
+   "sourceId": "b39a9970-9049-4864-aece-f284f1668c69",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0460_海の見える街.txt",
+   "title": "魔女宅急便",
+   "durationUs": 89748000,
+   "eventCount": 515,
+   "sourceId": "faeb9cec-fc43-44e2-ae60-99abf7fe1349",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0461_海底.txt",
+   "title": "海底",
+   "durationUs": 138643000,
+   "eventCount": 499,
+   "sourceId": "4e21f153-c6b4-4d50-85db-0bb4fb3af203",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0462_海底潭.txt",
+   "title": "海底潭",
+   "durationUs": 91560000,
+   "eventCount": 903,
+   "sourceId": "ad66734a-9b4a-465f-8ef9-1194a9beb3f2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0463_海阔天空.txt",
+   "title": "海阔天空",
+   "durationUs": 69218000,
+   "eventCount": 259,
+   "sourceId": "ad35863b-b052-4c30-88f7-af487dc00b5d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0464_深海少女（ゆうゆP）.txt",
+   "title": "深海少女",
+   "durationUs": 59975000,
+   "eventCount": 322,
+   "sourceId": "21d9a659-4177-48db-9642-b4692058abc7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0465_清明雨上 bilibili南北阿奇.txt",
+   "title": "清明雨上 bilibili南北阿奇",
+   "durationUs": 114560000,
+   "eventCount": 266,
+   "sourceId": "b5889ea5-92bc-4399-aedc-ee54a130ef57",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0466_溯.txt",
+   "title": "溯",
+   "durationUs": 67060000,
+   "eventCount": 297,
+   "sourceId": "514d4e47-2e6a-42c6-bb5c-5ab415e7979b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0467_溯reverse.txt",
+   "title": "溯reverse",
+   "durationUs": 151810000,
+   "eventCount": 818,
+   "sourceId": "377100f9-2405-4b91-b79f-43200bd990fa",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0468_潮鸣り.txt",
+   "title": "[钢琴曲]潮鸣り(原速)",
+   "durationUs": 216510000,
+   "eventCount": 282,
+   "sourceId": "b2e592a7-97a2-4bd0-a186-ffb8be89b223",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0469_炭治郎之歌.txt",
+   "title": "炭治郎之歌",
+   "durationUs": 293860000,
+   "eventCount": 1427,
+   "sourceId": "a18ad842-3b5b-489e-95ac-c9dc704754c1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0470_烟斗斜桥.txt",
+   "title": "烟斗斜桥",
+   "durationUs": 70559000,
+   "eventCount": 309,
+   "sourceId": "ea3a60d4-18ea-4078-99d9-e09751ffcd28",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0471_烟火里的尘埃[By北北].txt",
+   "title": "烟火里的尘埃",
+   "durationUs": 252380000,
+   "eventCount": 1435,
+   "sourceId": "f406aff5-b3f1-41d3-8d25-4c522414129a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0472_烟花易冷.txt",
+   "title": "烟花易冷 杏子",
+   "durationUs": 82310000,
+   "eventCount": 256,
+   "sourceId": "e1dd4b86-e92f-4c12-b0d3-523b9b16917c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0473_烟花易冷_2.txt",
+   "title": "烟花易冷",
+   "durationUs": 223188000,
+   "eventCount": 1142,
+   "sourceId": "f1d5e724-b45c-48b6-b302-28f28fdba111",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0474_烟花易冷K.txt",
+   "title": "烟花易冷",
+   "durationUs": 89952000,
+   "eventCount": 153,
+   "sourceId": "da4258cc-17fe-4a52-a0e7-d49ce619c3aa",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0475_烟雨行舟.txt",
+   "title": "烟雨行舟",
+   "durationUs": 123896000,
+   "eventCount": 444,
+   "sourceId": "cc883587-385d-4294-9fa2-9ff8cf6f157f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0476_热爱105℃的你(暴躁).txt",
+   "title": "热爱105℃的你(暴躁)",
+   "durationUs": 200060000,
+   "eventCount": 1069,
+   "sourceId": "46a878a2-a5f3-4222-b1f9-25a21e3c634b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0477_爱人错过.txt",
+   "title": "爱人错过",
+   "durationUs": 142806000,
+   "eventCount": 955,
+   "sourceId": "65bdb109-2a2c-4a66-b825-c4a905e4164b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0478_爱情转移——贰肆.txt",
+   "title": "爱情转移——贰肆",
+   "durationUs": 207612000,
+   "eventCount": 1235,
+   "sourceId": "0943faec-9bda-47b4-b81a-2e1461039f33",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0479_狂妄之人 megalovania 烛子ikina.txt",
+   "title": "狂妄之人 megalovania 烛子ikina",
+   "durationUs": 111435000,
+   "eventCount": 1193,
+   "sourceId": "29e4c961-c8c1-448d-88e1-76f816a44f0f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0480_狂妄之人 megalovania 简易easy 烛子ikina.txt",
+   "title": "狂妄之人 megalovania 简易easy 烛子ikina",
+   "durationUs": 71435000,
+   "eventCount": 228,
+   "sourceId": "5e027b18-ad9d-4c36-9b49-29fa2b0ddbc6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0481_琴之翼 wings of piano 烛子ikina.txt",
+   "title": "wings of piano 烛子ikina",
+   "durationUs": 101328000,
+   "eventCount": 684,
+   "sourceId": "47d7827c-cbb9-499c-a906-fc58e5c4ead3",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0482_生命之名(いのちの名前).txt",
+   "title": "生命之名（いのちの名前）（千と千寻の神隠し插曲One Summer’s Day完整版）",
+   "durationUs": 394960000,
+   "eventCount": 1456,
+   "sourceId": "e44e58d5-c48f-48de-8d19-04c5328e2bcf",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0483_生生世世爱.txt",
+   "title": "生生世世爱",
+   "durationUs": 117780000,
+   "eventCount": 756,
+   "sourceId": "d8995c9a-4e9e-4d4f-9e5b-130e0f199b59",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0484_病变.txt",
+   "title": "病变",
+   "durationUs": 134810000,
+   "eventCount": 727,
+   "sourceId": "7ccb1a6a-48c9-4966-aa63-d13f155b6297",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0485_白月光与朱砂痣.txt",
+   "title": "白月光与朱砂痣",
+   "durationUs": 130020000,
+   "eventCount": 647,
+   "sourceId": "15971315-39bb-46be-9255-a874f492f281",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0486_白月光与朱砂痣难.txt",
+   "title": "白月光与朱砂痣",
+   "durationUs": 135580000,
+   "eventCount": 681,
+   "sourceId": "4f636af2-a0ab-444b-8b5a-29eab9c09831",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0487_盛夏的果实.txt",
+   "title": "盛夏的果实",
+   "durationUs": 118188000,
+   "eventCount": 486,
+   "sourceId": "0b8dd328-2256-4116-bc12-bba283cb9046",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0488_盲（原曲《诺》）.txt",
+   "title": "盲（原曲《诺》）",
+   "durationUs": 223164000,
+   "eventCount": 771,
+   "sourceId": "d73b06c6-eebb-4a53-9756-a7f9d2b7dce6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0489_真新镇简易版.txt",
+   "title": "真新镇简易版",
+   "durationUs": 84056000,
+   "eventCount": 147,
+   "sourceId": "21f1aafc-9a1b-41b3-a517-3f376d1dc30d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0490_砂之惑星.txt",
+   "title": "砂之惑星",
+   "durationUs": 62810000,
+   "eventCount": 230,
+   "sourceId": "bd8ca381-0508-44b6-904d-eb6e9dcc9d16",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0491_祝福のメシアとアイの塔#祝福的救世主与爱之塔（ひとしずくP）.txt",
+   "title": "祝福のメシアとアイの塔",
+   "durationUs": 111732000,
+   "eventCount": 924,
+   "sourceId": "51b869c7-c598-483d-8ef9-1431da957bc9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0492_神々が恋した幻想郷(修改版).txt",
+   "title": "神々が恋した幻想郷(修改版)",
+   "durationUs": 110976000,
+   "eventCount": 893,
+   "sourceId": "5d8e03b3-769b-4455-a0c2-34288f1bfedd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0493_神々が恋した幻想郷.txt",
+   "title": "神々が恋した幻想郷",
+   "durationUs": 105828000,
+   "eventCount": 843,
+   "sourceId": "bf028f30-6195-4f8d-a245-b11ac99d9949",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0494_神的随波逐流.txt",
+   "title": "神的随波逐流",
+   "durationUs": 214403000,
+   "eventCount": 2573,
+   "sourceId": "b54d8276-751b-4823-b4f0-af7c2ef5bf9f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0495_稻香完整版Mkf.txt",
+   "title": "稻香完整版Mkf",
+   "durationUs": 226202000,
+   "eventCount": 1241,
+   "sourceId": "95bc04e1-bfba-4b81-86d5-bbc6e92a7709",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0496_穿越时空的思念.txt",
+   "title": "穿越时空的思念",
+   "durationUs": 72984000,
+   "eventCount": 170,
+   "sourceId": "ecc58902-1e7f-4cd8-8f21-7e837a2a8f7c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0497_突然好想你.txt",
+   "title": "突然好想你",
+   "durationUs": 153284000,
+   "eventCount": 886,
+   "sourceId": "fe77fc1a-5a8c-493e-9542-b65e5f382dfc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0498_童话镇.txt",
+   "title": "童话镇",
+   "durationUs": 72060000,
+   "eventCount": 248,
+   "sourceId": "b1f8026e-7f0b-4613-9d93-1becabd090fb",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0499_等你下课.txt",
+   "title": "等你下课",
+   "durationUs": 134649000,
+   "eventCount": 229,
+   "sourceId": "5a022b00-ebdc-4441-bf1e-7b96a40d52f4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0500_糸 aimer ito 烛子ikina.txt",
+   "title": "糸 aimer ito 烛子ikina",
+   "durationUs": 78130000,
+   "eventCount": 230,
+   "sourceId": "2476ee87-8b15-42bd-9a0c-a4803bb122a8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0501_紅蓮華 X 千本櫻.txt",
+   "title": "紅蓮華 X 千本櫻",
+   "durationUs": 234460000,
+   "eventCount": 2041,
+   "sourceId": "0675586e-e8ea-416d-b3e7-7d0867a1d360",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0502_紫罗兰永恒花园ed 路标 Michishirube 烛子ikina.txt",
+   "title": "紫罗兰永恒花园ed 路标 Michishirube 烛子ikina",
+   "durationUs": 85372000,
+   "eventCount": 281,
+   "sourceId": "283c7def-e4b7-4011-a343-fccba5ffa744",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0503_红莲华 Gurenge 烛子ikina.txt",
+   "title": "红莲华 Gurenge 烛子ikina",
+   "durationUs": 92190000,
+   "eventCount": 558,
+   "sourceId": "b2d68116-8e33-4af0-811e-84339de4d5b0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0504_红豆.txt",
+   "title": "红豆",
+   "durationUs": 266460000,
+   "eventCount": 1111,
+   "sourceId": "71bc1c46-9412-4ebd-b987-fc32e6388d1c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0505_绅士[by小社].txt",
+   "title": "绅士[by小社]",
+   "durationUs": 141916000,
+   "eventCount": 632,
+   "sourceId": "86767049-ac3e-465d-8d8f-5e112de65949",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0507_美丽拍档.txt",
+   "title": "美丽拍档(朱一旦枯燥曲)",
+   "durationUs": 74760000,
+   "eventCount": 273,
+   "sourceId": "d651edb4-48b5-462c-8036-9a1c3e9e7a82",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0508_肖邦 离别 chopin etude 3 烛子ikina.txt",
+   "title": "肖邦 离别 chopin etude 3 烛子ikina",
+   "durationUs": 84560000,
+   "eventCount": 339,
+   "sourceId": "fcfae3ea-f5ec-44d4-aaea-41286deb5bee",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0509_背对背拥抱（黒子これも）.txt",
+   "title": "背对背拥抱",
+   "durationUs": 67252000,
+   "eventCount": 265,
+   "sourceId": "0f08de5e-6e84-49e2-9910-10a4c35a41db",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0510_自制歌曲.txt",
+   "title": "自制歌曲",
+   "durationUs": 155060000,
+   "eventCount": 792,
+   "sourceId": "19894743-d1d3-4675-966d-c5c22c657e48",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0511_致爱丽丝.txt",
+   "title": "致爱丽丝",
+   "durationUs": 165413000,
+   "eventCount": 809,
+   "sourceId": "7f39fb83-cab5-4c7d-b6a7-23393c9030cd",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0512_致青春.txt",
+   "title": "致青春♪",
+   "durationUs": 131820000,
+   "eventCount": 745,
+   "sourceId": "8d8922f9-9aa9-45ee-8d8e-e237770a1d80",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0513_艾斯戈尔·逐梦.txt",
+   "title": "艾斯戈尔·逐梦",
+   "durationUs": 95804000,
+   "eventCount": 584,
+   "sourceId": "43f9e075-8a99-4f26-843c-34285c52cce7",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0514_花海周杰伦.txt",
+   "title": "花海周杰伦",
+   "durationUs": 60540000,
+   "eventCount": 241,
+   "sourceId": "02dad38a-b6e7-4075-8175-cea33ba73066",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0515_茫.txt",
+   "title": "茫",
+   "durationUs": 109540000,
+   "eventCount": 519,
+   "sourceId": "6b6e8985-5b71-491e-b0a0-b7dca7d08c2d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0516_菊次郎的夏天(和弦版).txt",
+   "title": "菊次郎的夏天(和弦版)",
+   "durationUs": 134124000,
+   "eventCount": 728,
+   "sourceId": "03403dda-bc64-413a-beb6-463cac51449c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0517_菊次郎的夏天(夏卡重制版).txt",
+   "title": "菊次郎的夏天(夏卡重制版)",
+   "durationUs": 109884000,
+   "eventCount": 631,
+   "sourceId": "9572c185-775a-4313-98d2-37864e1c2bf1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0518_菊次郎的夏天.txt",
+   "title": "菊次郎的夏天",
+   "durationUs": 154140000,
+   "eventCount": 607,
+   "sourceId": "a5fae274-6340-4c96-9c0d-13a2174104cf",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0519_菊次郎的夏天349722e.txt",
+   "title": "菊次郎的夏天",
+   "durationUs": 68802000,
+   "eventCount": 189,
+   "sourceId": "0fbcee6f-d9a9-4481-9e36-7acf4013e42e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0520_萤火之森.txt",
+   "title": "萤火之森",
+   "durationUs": 134460000,
+   "eventCount": 629,
+   "sourceId": "b8eca416-02d8-4bcd-a9b6-ae9b9a1df031",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0521_蔷薇列车（花之祭）.txt",
+   "title": "蔷薇列车",
+   "durationUs": 71455000,
+   "eventCount": 333,
+   "sourceId": "0047fd0c-f3f8-433e-9253-1d58d46ef646",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0522_虹之间.txt",
+   "title": "虹之间",
+   "durationUs": 120756000,
+   "eventCount": 205,
+   "sourceId": "481192c6-47ee-4e3b-ab2c-eda5ce22ec91",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0523_虹色蝶々（黒うさP）.txt",
+   "title": "虹色蝶々",
+   "durationUs": 94560000,
+   "eventCount": 409,
+   "sourceId": "0ee3fc2f-ef65-493a-aab9-f86b2aced514",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0524_蜂鸟.txt",
+   "title": "蜂鸟",
+   "durationUs": 174780000,
+   "eventCount": 1738,
+   "sourceId": "0cc87e9a-6706-4d38-b64e-6a6076a35ff2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0525_蜘蛛糸モノポリー（sasakure.UK）.txt",
+   "title": "蜘蛛糸モノポリー",
+   "durationUs": 92913000,
+   "eventCount": 389,
+   "sourceId": "57bdb295-12fa-4882-b459-2e8dabdcc6c2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0526_被生命厌恶.txt",
+   "title": "被生命厌恶",
+   "durationUs": 86652000,
+   "eventCount": 824,
+   "sourceId": "f4df106e-5465-4019-9b52-b84174303934",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0527_让风告诉你 原神拜年纪.txt",
+   "title": "让风告诉你 原神拜年纪",
+   "durationUs": 149100000,
+   "eventCount": 503,
+   "sourceId": "7a739e71-90fe-43c6-bca2-fc1d006a7de4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0528_误红装A1_UTF16.txt",
+   "title": "误红装A1",
+   "durationUs": 72960000,
+   "eventCount": 237,
+   "sourceId": "03f33e83-1c1a-445a-9bf9-b14185a42d6c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0529_说好不哭.txt",
+   "title": "说好不哭",
+   "durationUs": 171040000,
+   "eventCount": 830,
+   "sourceId": "60f55d35-4e91-4e42-921d-eccc80ba36f4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0530_说爱你(1).txt",
+   "title": "说爱你",
+   "durationUs": 112560000,
+   "eventCount": 642,
+   "sourceId": "b8e07aa4-b752-47a9-a792-8c81c093d1a1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0531_谁.txt",
+   "title": "谁",
+   "durationUs": 115260000,
+   "eventCount": 397,
+   "sourceId": "4fee1a2e-d18d-4da6-9a35-33c679d904a0",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0533_负重一万斤长大.txt",
+   "title": "负重一万斤长大",
+   "durationUs": 180460000,
+   "eventCount": 870,
+   "sourceId": "7460852d-4761-4f15-b60d-3663d1c3f982",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0534_赤い風船とメリーゴーランド_savffy.txt",
+   "title": "赤い風船とメリーゴーランド",
+   "durationUs": 96060000,
+   "eventCount": 644,
+   "sourceId": "fffb8088-1cde-4d18-9c12-7fd071629896",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0535_走马.txt",
+   "title": "走马",
+   "durationUs": 68436000,
+   "eventCount": 286,
+   "sourceId": "db7531f3-da70-4b1e-9e86-19af70beb199",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0536_起风了(暴躁).txt",
+   "title": "起风了 ヤキモチ 烛子ikina",
+   "durationUs": 105460000,
+   "eventCount": 474,
+   "sourceId": "4b5a8c74-d2f8-4bce-84fe-67c7ae516fec",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0537_起风了.txt",
+   "title": "起风了",
+   "durationUs": 83626000,
+   "eventCount": 260,
+   "sourceId": "6876d915-4ae2-44c8-a4e1-f8d24989a0db",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0538_超电磁炮+红莲华Dcedillbey.txt",
+   "title": "超电磁炮+红莲华Dcedillbey",
+   "durationUs": 218952000,
+   "eventCount": 1707,
+   "sourceId": "69726c5d-da3d-41c5-80b6-04ee02305dcc",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0539_超级玛丽.txt",
+   "title": "超级玛丽",
+   "durationUs": 80028000,
+   "eventCount": 617,
+   "sourceId": "0f3403ba-8e57-4866-958d-3e472774899e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0540_超越时空的思念.txt",
+   "title": "超越时空的思念",
+   "durationUs": 64060000,
+   "eventCount": 149,
+   "sourceId": "2db20452-11b1-4184-9fca-2c82956f0233",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0541_路标.txt",
+   "title": "路标(1)",
+   "durationUs": 87004000,
+   "eventCount": 321,
+   "sourceId": "6db5dd20-eba8-463c-a85e-8b93eb57cb09",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0542_跳舞的线 钢琴THE PAINO.txt",
+   "title": "跳舞的线  钢琴THE PAINO",
+   "durationUs": 75660000,
+   "eventCount": 284,
+   "sourceId": "1ec96e9f-ea9f-48c3-ab35-7b3da2006167",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0543_踏山河.txt",
+   "title": "踏山河",
+   "durationUs": 73400000,
+   "eventCount": 438,
+   "sourceId": "1cffd477-0f2e-43f6-a3e9-de6a26c74379",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0544_辉夜大小姐op love is war 烛子ikina.txt",
+   "title": "辉夜大小姐op love is war 烛子ikina",
+   "durationUs": 105660000,
+   "eventCount": 490,
+   "sourceId": "6df1ab7b-5e8e-4187-a790-c46f4e948fe9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0545_进击的巨人Guren no Yumiya 烛子ikina.txt",
+   "title": "进击的巨人Guren no Yumiya 烛子ikina",
+   "durationUs": 55670000,
+   "eventCount": 712,
+   "sourceId": "a9f7ce02-713c-4cb7-9569-3ae85f5987b8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0546_进击的巨人Guren no Yumiya 简易版easy 烛子ikina.txt",
+   "title": "进击的巨人Guren no Yumiya 简易版easy 烛子ikina",
+   "durationUs": 55670000,
+   "eventCount": 242,
+   "sourceId": "3a73709b-d138-4844-8e36-d4f551bce474",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0547_追[By北北].txt",
+   "title": "追",
+   "durationUs": 94460000,
+   "eventCount": 490,
+   "sourceId": "e03b4cf2-8793-418a-bb99-55da79f02a7a",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0548_追光者.txt",
+   "title": "追光者",
+   "durationUs": 60879000,
+   "eventCount": 155,
+   "sourceId": "449451aa-127c-4c24-8bbb-5e96cf14f749",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0549_送你一朵小红花.txt",
+   "title": "送你一朵小红花",
+   "durationUs": 116340000,
+   "eventCount": 541,
+   "sourceId": "637a62b8-cfdc-450f-a12b-57937ce02977",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0550_遇见.txt",
+   "title": "遇见",
+   "durationUs": 148284000,
+   "eventCount": 758,
+   "sourceId": "0ca642d7-fded-4b02-9ce2-04fae628e795",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0551_遥不可及的你 安迪Zoey.txt",
+   "title": "遥不可及的你 安迪Zoey",
+   "durationUs": 154140000,
+   "eventCount": 669,
+   "sourceId": "0cdbdaa1-6a37-4d54-ad89-1c585b314e50",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0552_那个夏天.txt",
+   "title": "那个夏天",
+   "durationUs": 135822000,
+   "eventCount": 498,
+   "sourceId": "77edc0c3-9478-4b52-9191-8e6fb82d2658",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0553_那些年.txt",
+   "title": "那些年",
+   "durationUs": 163810000,
+   "eventCount": 458,
+   "sourceId": "5046074d-1bef-4622-b23b-3b1fb10be121",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0554_野蜂飞舞适配完美版—沫忆.txt",
+   "title": "野蜂飞舞适配完美版—沫忆",
+   "durationUs": 70284000,
+   "eventCount": 1226,
+   "sourceId": "5f366fde-fbe8-4f55-b1b8-d40c937e6ec4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0555_钢之炼金术师again 烛子ikina.txt",
+   "title": "钢之炼金术师again 烛子ikina",
+   "durationUs": 66882000,
+   "eventCount": 427,
+   "sourceId": "4181d297-16db-44cd-ae0d-7a08a14a1f0c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0556_铃儿响叮当.txt",
+   "title": "铃儿响叮当",
+   "durationUs": 87708000,
+   "eventCount": 589,
+   "sourceId": "03260be7-f133-4f06-bb37-d5401ad02219",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0557_铃儿响叮当2.txt",
+   "title": "铃儿响叮当2",
+   "durationUs": 170044000,
+   "eventCount": 898,
+   "sourceId": "10384cb0-0bfb-45bc-90c9-75c7fa318a1f",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0558_错位时空.txt",
+   "title": "错位时空",
+   "durationUs": 83060000,
+   "eventCount": 397,
+   "sourceId": "c337c4f2-aac3-44ea-aa9a-235147af784c",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0560_阴天快乐.txt",
+   "title": "阴天快乐",
+   "durationUs": 239310000,
+   "eventCount": 1031,
+   "sourceId": "cee0a1fa-9426-4fa5-aac1-7bde38451b41",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0561_阴阳师·帝释天×阿修罗·主题曲 Broken Hero.txt",
+   "title": "阴阳师·帝释天×阿修罗·主题曲 Broken Hero",
+   "durationUs": 197820000,
+   "eventCount": 792,
+   "sourceId": "9adc02b7-93da-4b37-9b36-cd6f2efb1aea",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0562_阿拉斯加海湾.txt",
+   "title": "阿拉斯加海湾",
+   "durationUs": 152700000,
+   "eventCount": 676,
+   "sourceId": "801de429-0b54-4ef2-80cd-2182e4926ac9",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0563_陈奕迅_心的距离.txt",
+   "title": "陈奕迅 - 心的距离",
+   "durationUs": 112060000,
+   "eventCount": 519,
+   "sourceId": "f808b8c5-0f0c-4320-9567-61cbc0551c24",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0564_降临 烛子ikina.txt",
+   "title": "降临 烛子ikina",
+   "durationUs": 94220000,
+   "eventCount": 287,
+   "sourceId": "94161f93-f9ac-4f21-b26c-85b6af94d732",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0565_限りなく灰色へ.txt",
+   "title": "限りなく灰色へ",
+   "durationUs": 114370000,
+   "eventCount": 726,
+   "sourceId": "e09dbb10-a72e-42e0-b35a-497ea6dd9a4e",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0566_难生恨.txt",
+   "title": "难生恨",
+   "durationUs": 136806000,
+   "eventCount": 818,
+   "sourceId": "b7d9449b-c675-4bf8-b69c-d532795de43b",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0567_雅俗共赏.txt",
+   "title": "雅俗共赏.",
+   "durationUs": 76444000,
+   "eventCount": 232,
+   "sourceId": "f0c94280-d0b2-41c9-9c34-646d4d4342b8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0568_雨之歌.txt",
+   "title": "雨之歌",
+   "durationUs": 70310000,
+   "eventCount": 349,
+   "sourceId": "1bffbd46-976d-4e90-ae68-07368cc3ce21",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0569_雨林_UTF16.txt",
+   "title": "雨林",
+   "durationUs": 58620000,
+   "eventCount": 119,
+   "sourceId": "f43d70c8-4863-4a21-9d34-1cb13cfcd708",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0570_雾里 原著忆·思 边晴画改编(1).txt",
+   "title": "雾里  原著忆·思 边晴画改编",
+   "durationUs": 83560000,
+   "eventCount": 381,
+   "sourceId": "5ca119a3-b6ca-47b7-8a54-d1fb8eb5442d",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0571_雾里 原著忆·思 边晴画改编.txt",
+   "title": "雾里  原著忆·思 边晴画改编",
+   "durationUs": 83560000,
+   "eventCount": 381,
+   "sourceId": "713f1bd8-5316-4e6a-ad81-a605710007a6",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0572_雾里.txt",
+   "title": "雾里",
+   "durationUs": 244060000,
+   "eventCount": 1163,
+   "sourceId": "cb11a7f5-9e5d-4aee-a63e-6a087c957322",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0573_霜雪千年（黒子これも）.txt",
+   "title": "霜雪千年",
+   "durationUs": 152685000,
+   "eventCount": 993,
+   "sourceId": "2ebb2692-dd1f-450e-a08a-95c1149ec0e2",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0574_青春：请回答1988ost.txt",
+   "title": "青春：请回答1988ost",
+   "durationUs": 64260000,
+   "eventCount": 244,
+   "sourceId": "2d008892-a549-4d84-a2d5-99eb3476e383",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0575_青石巷 Bluestone Alleyd0d1a4e.txt",
+   "title": "青石巷 Bluestone Alley",
+   "durationUs": 101996000,
+   "eventCount": 304,
+   "sourceId": "c1ca7265-beea-48d5-8bde-db25910cfeb1",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0576_青花瓷.txt",
+   "title": "青花瓷",
+   "durationUs": 77020000,
+   "eventCount": 356,
+   "sourceId": "c5621318-daa4-4aae-9cd9-baec7cc5cae4",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0577_风之甬道（雪烛之城）.txt",
+   "title": "风之甬道",
+   "durationUs": 193548000,
+   "eventCount": 1113,
+   "sourceId": "206061a6-2573-444e-a715-18924b3161c8",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0578_鬼怪round and round 烛子ikina.txt",
+   "title": "鬼怪round and round 烛子ikina",
+   "durationUs": 64060000,
+   "eventCount": 214,
+   "sourceId": "5fd5c95f-1c50-453f-8cae-979b33d517aa",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0579_龙卷风.txt",
+   "title": "龙卷风",
+   "durationUs": 92060000,
+   "eventCount": 232,
+   "sourceId": "4a557932-56b3-4cfe-91c3-cdd9a7cbd024",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0532_豆豆.txt",
+   "title": "给我一首歌的时间",
+   "durationUs": 94858000,
+   "eventCount": 357,
+   "sourceId": "3d61cc63-4381-416a-8fa9-08089a861d80",
+   "renamedFromOldManifest": true
+  },
+  {
+   "assetName": "0580_《如果呢》.txt",
+   "title": "《如果呢》",
+   "durationUs": 303260000,
+   "eventCount": 1609,
+   "sourceId": "6da9bc65-a15c-4985-b2b8-b471268d4281",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0581_坏女孩.txt",
+   "title": "坏女孩",
+   "durationUs": 264576000,
+   "eventCount": 1533,
+   "sourceId": "a581c03f-c5bb-4010-85ad-e6045ce2766e",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0582_读心术.txt",
+   "title": "读心术",
+   "durationUs": 254860000,
+   "eventCount": 1496,
+   "sourceId": "992f1793-ee59-4d49-a772-0cb27e32dd5b",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0583_不将就.txt",
+   "title": "不将就",
+   "durationUs": 284076000,
+   "eventCount": 1353,
+   "sourceId": "f4566d4a-54bd-4eec-9f25-a74a966f0650",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0584_枫完整版.txt",
+   "title": "枫完整版",
+   "durationUs": 250122000,
+   "eventCount": 1120,
+   "sourceId": "1062cc16-bde1-4491-b3db-20a93c9e3cce",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0585_你要的全拿走.txt",
+   "title": "你要的全拿走",
+   "durationUs": 272962000,
+   "eventCount": 1673,
+   "sourceId": "f40d5da8-e7d2-4520-86dd-7981202ccf5d",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0586_路小雨.txt",
+   "title": "路小雨",
+   "durationUs": 155260000,
+   "eventCount": 954,
+   "sourceId": "e3f7c354-6921-41e5-b08b-2ba323ccc492",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0587_瞬.txt",
+   "title": "瞬",
+   "durationUs": 259414000,
+   "eventCount": 1204,
+   "sourceId": "a7634965-501a-49f7-9004-4797d6e1939c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0588_慢冷.txt",
+   "title": "慢冷",
+   "durationUs": 314728000,
+   "eventCount": 1294,
+   "sourceId": "81d4e18c-9348-4806-b198-42252098f2d7",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0589_少一点天分.txt",
+   "title": "少一点天分",
+   "durationUs": 240888000,
+   "eventCount": 1035,
+   "sourceId": "112b84ff-6475-428e-9575-fa490899ced0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0590_第57次取消发送.txt",
+   "title": "第57次取消发送",
+   "durationUs": 199740000,
+   "eventCount": 886,
+   "sourceId": "0c34fde5-f8f4-45cc-9056-77dc01781834",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0591_借口.txt",
+   "title": "借口",
+   "durationUs": 216060000,
+   "eventCount": 943,
+   "sourceId": "efad41eb-d124-435c-bc09-70f67efda987",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0592_麦恩莉.txt",
+   "title": "麦恩莉",
+   "durationUs": 305410000,
+   "eventCount": 1492,
+   "sourceId": "f31e6dc9-bd2b-4b6c-bb05-64cebb99052c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0593_蒲公英的约定.txt",
+   "title": "蒲公英的约定",
+   "durationUs": 221870000,
+   "eventCount": 934,
+   "sourceId": "dad52d2f-e33d-4416-ac5f-b126ff27b7b7",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0594_明明就.txt",
+   "title": "明明就",
+   "durationUs": 345228000,
+   "eventCount": 1409,
+   "sourceId": "a0bcc6a0-5ae0-456c-a87a-011fcdf54fa0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0595_写不完的温柔.txt",
+   "title": "写不完的温柔",
+   "durationUs": 224500000,
+   "eventCount": 1289,
+   "sourceId": "11a9fb30-8b82-4139-bec4-33208fe5ad2c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0596_海屿你.txt",
+   "title": "海屿你",
+   "durationUs": 267404000,
+   "eventCount": 1290,
+   "sourceId": "e5bdf256-1562-4da2-885b-9788e94a948b",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0597_心墙.txt",
+   "title": "心墙",
+   "durationUs": 171452000,
+   "eventCount": 868,
+   "sourceId": "4fcf5860-e6f9-4858-937d-a1efb2807ce7",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0598_连名带姓.txt",
+   "title": "连名带姓",
+   "durationUs": 312892000,
+   "eventCount": 1338,
+   "sourceId": "f14423cd-1312-4f5e-87cc-d6f0ab3bfda0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0599_兰亭序.txt",
+   "title": "兰亭序",
+   "durationUs": 216360000,
+   "eventCount": 1108,
+   "sourceId": "f1b41189-3a94-4d77-a960-a703659cfea6",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0600_周杰伦串烧34首.txt",
+   "title": "周杰伦串烧34首",
+   "durationUs": 644540000,
+   "eventCount": 2888,
+   "sourceId": "a7568059-ac85-4f9a-bb70-ad10d1c0ad47",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0601_蝴蝶.txt",
+   "title": "蝴蝶",
+   "durationUs": 261852000,
+   "eventCount": 1229,
+   "sourceId": "247c203f-9e3a-4ed2-a4fa-801b3bab78ce",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0602_Angel 陶喆.txt",
+   "title": "Angel 陶喆",
+   "durationUs": 219668000,
+   "eventCount": 988,
+   "sourceId": "30edab6a-3f79-4d3f-9ad5-fca1a3af66f0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0603_那天下雨了.txt",
+   "title": "那天下雨了",
+   "durationUs": 197084000,
+   "eventCount": 1138,
+   "sourceId": "a5637337-3a54-4d44-b1f4-0e1e8dcaecc2",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0604_离开我的依赖.txt",
+   "title": "离开我的依赖",
+   "durationUs": 192350000,
+   "eventCount": 911,
+   "sourceId": "30a5dafd-5326-4896-b929-1cb196722852",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0605_阳光下的星星.txt",
+   "title": "阳光下的星星",
+   "durationUs": 267180000,
+   "eventCount": 1178,
+   "sourceId": "ecf5054e-82e1-4bb7-b987-7a9f97e626f1",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0606_不流泪的机场.txt",
+   "title": "不流泪的机场",
+   "durationUs": 280690000,
+   "eventCount": 1203,
+   "sourceId": "9cceedc1-1fe3-4161-ab49-66f4dfeaec9c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0607_动物世界.txt",
+   "title": "动物世界",
+   "durationUs": 187436000,
+   "eventCount": 975,
+   "sourceId": "012fbba5-4039-4395-ba5e-f6087d88b389",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0608_方圆几里1.txt",
+   "title": "方圆几里1",
+   "durationUs": 188682000,
+   "eventCount": 1022,
+   "sourceId": "b429e912-de44-4bfe-a485-937e874b8986",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0609_演员.txt",
+   "title": "演员",
+   "durationUs": 286440000,
+   "eventCount": 1310,
+   "sourceId": "ad1a40c2-cb73-4f4f-afe9-af3765f774d7",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0610_指纹.txt",
+   "title": "指纹",
+   "durationUs": 196060000,
+   "eventCount": 992,
+   "sourceId": "5f047e21-24d0-44a6-9f5c-a0c4bc915b39",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0611_模特.txt",
+   "title": "模特",
+   "durationUs": 270357000,
+   "eventCount": 1233,
+   "sourceId": "ac70a7aa-0107-4129-818e-8d0c80054ecc",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0612_孤独患者.txt",
+   "title": "孤独患者",
+   "durationUs": 238772000,
+   "eventCount": 1027,
+   "sourceId": "592a82c7-e04e-4523-a599-9f407e0e7aa9",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0613_爱笑的眼睛.txt",
+   "title": "爱笑的眼睛",
+   "durationUs": 215515000,
+   "eventCount": 1103,
+   "sourceId": "a4937674-cc9a-42b2-83c7-8194a7d3a210",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0614_白色风车.txt",
+   "title": "白色风车",
+   "durationUs": 231258000,
+   "eventCount": 1085,
+   "sourceId": "922471ce-fa6a-457d-ba32-074253775909",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0615_半岛铁盒.txt",
+   "title": "半岛铁盒",
+   "durationUs": 224830000,
+   "eventCount": 1290,
+   "sourceId": "8b40882e-3da7-40e2-9b62-634d4658d7af",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0616_不分手的恋爱.txt",
+   "title": "不分手的恋爱",
+   "durationUs": 216860000,
+   "eventCount": 1029,
+   "sourceId": "b6b7d92c-8efd-4983-93d4-4b3b8d87d960",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0617_不死之身.txt",
+   "title": "不死之身",
+   "durationUs": 211170000,
+   "eventCount": 1305,
+   "sourceId": "278bc729-a327-4a19-bce3-d304e92a6666",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0618_彩虹-周杰伦.txt",
+   "title": "彩虹-周杰伦",
+   "durationUs": 254856000,
+   "eventCount": 1127,
+   "sourceId": "7031c4f7-ab18-4b88-9321-14e85c995eca",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0619_单车.txt",
+   "title": "单车",
+   "durationUs": 164679000,
+   "eventCount": 921,
+   "sourceId": "2e97e22f-2241-4bba-8c28-7333684e1f55",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0620_当你.txt",
+   "title": "当你",
+   "durationUs": 238320000,
+   "eventCount": 1179,
+   "sourceId": "96cc7111-5a24-4d79-b97e-99c0626bb339",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0621_断了的弦.txt",
+   "title": "断了的弦",
+   "durationUs": 326960000,
+   "eventCount": 1600,
+   "sourceId": "3f4f5857-d717-4011-8f2c-9c34f910eb42",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0622_刚刚好.txt",
+   "title": "刚刚好",
+   "durationUs": 198222000,
+   "eventCount": 956,
+   "sourceId": "780f907a-dbce-464e-8c4f-5bbd3a98341d",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0623_告白气球.txt",
+   "title": "告白气球",
+   "durationUs": 111102000,
+   "eventCount": 694,
+   "sourceId": "d12e1672-a858-4f00-a9ec-7ce2975d09e2",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0624_搁浅.txt",
+   "title": "搁浅",
+   "durationUs": 204133000,
+   "eventCount": 836,
+   "sourceId": "21137560-7c79-447e-a71e-6333aaf88c8d",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0625_关键词.txt",
+   "title": "关键词",
+   "durationUs": 186668000,
+   "eventCount": 853,
+   "sourceId": "a02b95a2-dd65-4000-9b0b-40b367d3d6a1",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0626_轨迹.txt",
+   "title": "轨迹",
+   "durationUs": 287244000,
+   "eventCount": 1336,
+   "sourceId": "d8c137f1-b2e1-49b9-b298-5bc1a274db81",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0627_裹着心的光.txt",
+   "title": "裹着心的光",
+   "durationUs": 210620000,
+   "eventCount": 978,
+   "sourceId": "cb52182c-8e04-4611-9d21-244f211a4fb6",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0628_红色高跟鞋.txt",
+   "title": "红色高跟鞋",
+   "durationUs": 133980000,
+   "eventCount": 763,
+   "sourceId": "a134c6bc-9262-478c-91d4-33063a02f066",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0629_会呼吸的痛.txt",
+   "title": "会呼吸的痛",
+   "durationUs": 213588000,
+   "eventCount": 1136,
+   "sourceId": "a82c073f-a605-470f-99a8-82c201db31c0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0630_寂寞的季节.txt",
+   "title": "寂寞的季节",
+   "durationUs": 203604000,
+   "eventCount": 874,
+   "sourceId": "316bbba5-0f06-4fe8-b3cf-b698f486c321",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0631_江南.txt",
+   "title": "江南",
+   "durationUs": 204485000,
+   "eventCount": 1098,
+   "sourceId": "bb8d8ca7-fab2-432f-b598-f641e69f8eee",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0632_可不可以.txt",
+   "title": "可不可以",
+   "durationUs": 210579000,
+   "eventCount": 999,
+   "sourceId": "4c8afade-2cd7-49e8-a0f5-9c925dae422d",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0633_苦笑.txt",
+   "title": "苦笑",
+   "durationUs": 213182000,
+   "eventCount": 1265,
+   "sourceId": "d0f0d70d-924c-4949-bfe1-64f7f6dd6876",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0634_老街.txt",
+   "title": "老街",
+   "durationUs": 304650000,
+   "eventCount": 1508,
+   "sourceId": "328721e2-9a7c-4aa0-ab37-484198326c3e",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0635_裂缝中的阳光.txt",
+   "title": "裂缝中的阳光",
+   "durationUs": 233104000,
+   "eventCount": 968,
+   "sourceId": "5378d737-433a-42de-9581-19150db3a8c7",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0636_蜜雪冰城主题曲.txt",
+   "title": "蜜雪冰城主题曲",
+   "durationUs": 23520000,
+   "eventCount": 145,
+   "sourceId": "cd2c5ecc-4261-4898-a93b-6b15bc9d3912",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0637_哪里都是你.txt",
+   "title": "哪里都是你",
+   "durationUs": 175480000,
+   "eventCount": 1021,
+   "sourceId": "ce854f82-3e0e-4e63-a292-743c1ce6e1aa",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0638_那时雨.txt",
+   "title": "那时雨",
+   "durationUs": 181436000,
+   "eventCount": 998,
+   "sourceId": "a2b55b95-4ba3-4bfb-8403-904aec0a7ac8",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0639_你还要我怎样.txt",
+   "title": "你还要我怎样",
+   "durationUs": 313674000,
+   "eventCount": 1338,
+   "sourceId": "075fad4b-f36a-4985-ab47-f4432122e84c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0640_你瞒我瞒.txt",
+   "title": "你瞒我瞒",
+   "durationUs": 208752000,
+   "eventCount": 969,
+   "sourceId": "823cbe04-e6ab-4ae4-8ed6-bf79627115eb",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0641_你听得到.txt",
+   "title": "你听得到",
+   "durationUs": 168812000,
+   "eventCount": 928,
+   "sourceId": "f14e8607-d860-4d08-b169-fe6f84025be6",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0642_你已把我的心磨平.txt",
+   "title": "你已把我的心磨平",
+   "durationUs": 208260000,
+   "eventCount": 985,
+   "sourceId": "47954fac-1c2b-4737-b55e-b1212c0388b9",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0643_你在，不在.txt",
+   "title": "你在，不在",
+   "durationUs": 250761000,
+   "eventCount": 1015,
+   "sourceId": "7ad5d6ae-f87f-4b53-aab8-27d47af1f55a",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0644_匿名的好友.txt",
+   "title": "匿名的好友",
+   "durationUs": 139536000,
+   "eventCount": 844,
+   "sourceId": "d58e182d-72c4-4547-a3a7-cee82bb098ba",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0645_千千阙歌.txt",
+   "title": "千千阙歌",
+   "durationUs": 261996000,
+   "eventCount": 1265,
+   "sourceId": "3378c647-ce95-40d8-86e6-254fd66029fc",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0646_人鱼的眼泪.txt",
+   "title": "人鱼的眼泪",
+   "durationUs": 316260000,
+   "eventCount": 1432,
+   "sourceId": "e57a125d-0844-4a0f-a957-7d0c490d62d2",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0647_舍得.txt",
+   "title": "舍得",
+   "durationUs": 268188000,
+   "eventCount": 1098,
+   "sourceId": "e6b1690b-d6f1-4c46-8f53-1d06228161d5",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0648_绅士.txt",
+   "title": "绅士",
+   "durationUs": 217360000,
+   "eventCount": 1115,
+   "sourceId": "2af2b22d-70d0-483c-a2ff-7b60ce49e390",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0649_生日快乐.txt",
+   "title": "生日快乐",
+   "durationUs": 37860000,
+   "eventCount": 173,
+   "sourceId": "35067edd-61ca-4b4e-bfc3-4c021f2acce0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0650_室内系的trackmaker.txt",
+   "title": "室内系的trackmaker",
+   "durationUs": 255036000,
+   "eventCount": 1595,
+   "sourceId": "05af2cab-16f4-4a1f-aa05-80dde789fac9",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0651_说好不哭.txt",
+   "title": "说好不哭",
+   "durationUs": 102060000,
+   "eventCount": 464,
+   "sourceId": "c0c268f1-f6b7-4af7-ba39-57f82ec58e2c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0652_说好的幸福呢.txt",
+   "title": "说好的幸福呢",
+   "durationUs": 218355000,
+   "eventCount": 1063,
+   "sourceId": "c04938c3-32e1-4b66-81ab-d736a43844ae",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0653_他不懂.txt",
+   "title": "他不懂",
+   "durationUs": 180978000,
+   "eventCount": 905,
+   "sourceId": "449c0ec7-0cba-455c-abcf-30fed045e8bd",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0654_特别的人.txt",
+   "title": "特别的人",
+   "durationUs": 202268000,
+   "eventCount": 1126,
+   "sourceId": "eb131473-510e-4110-9428-f59183cbff49",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0655_体面.txt",
+   "title": "体面",
+   "durationUs": 316277000,
+   "eventCount": 1225,
+   "sourceId": "f534332b-965c-483c-9c93-f48f4d9b25ac",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0656_天外来物.txt",
+   "title": "天外来物",
+   "durationUs": 196940000,
+   "eventCount": 958,
+   "sourceId": "2367eb16-e644-4f94-816b-f705b1658104",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0657_听妈妈的话.txt",
+   "title": "听妈妈的话",
+   "durationUs": 277194000,
+   "eventCount": 1520,
+   "sourceId": "e5be2a50-aa26-4f68-946e-2f0ba3d80c28",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0658_童话.txt",
+   "title": "童话",
+   "durationUs": 201276000,
+   "eventCount": 1005,
+   "sourceId": "d5af7834-53db-477d-a8fd-fcb1d719c8ac",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0659_退后.txt",
+   "title": "退后",
+   "durationUs": 221932000,
+   "eventCount": 1127,
+   "sourceId": "f2081b02-95d6-49e7-9276-afb13e83e5f9",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0660_唯一 邓紫棋.txt",
+   "title": "唯一 邓紫棋",
+   "durationUs": 263186000,
+   "eventCount": 1478,
+   "sourceId": "635b264a-4b28-49c2-a9c9-7fcbfb6f9e47",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0661_我的歌声里.txt",
+   "title": "我的歌声里",
+   "durationUs": 199402000,
+   "eventCount": 857,
+   "sourceId": "a71f9f7d-8ae7-4e28-ac70-dfa7b545f1a8",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0662_我想念.txt",
+   "title": "我想念",
+   "durationUs": 179792000,
+   "eventCount": 939,
+   "sourceId": "b333615b-94c6-456b-a5e1-249e82f858bc",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0663_喜帖街.txt",
+   "title": "喜帖街",
+   "durationUs": 168228000,
+   "eventCount": 871,
+   "sourceId": "9173efe4-ee1f-475f-ae14-101273b9c070",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0664_下个路口见.txt",
+   "title": "下个路口见",
+   "durationUs": 230010000,
+   "eventCount": 1258,
+   "sourceId": "a22fac49-daf1-4be7-b752-1804b5b78e4d",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0665_下完这场雨.txt",
+   "title": "下完这场雨",
+   "durationUs": 242248000,
+   "eventCount": 1106,
+   "sourceId": "4aab52a0-c9e6-4b60-bc56-2c2311cb9766",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0666_下一个天亮.txt",
+   "title": "下一个天亮",
+   "durationUs": 201036000,
+   "eventCount": 949,
+   "sourceId": "d57e228e-69d6-4d51-be2b-972c21ab29ce",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0667_夏天的风.txt",
+   "title": "夏天的风",
+   "durationUs": 187676000,
+   "eventCount": 935,
+   "sourceId": "99bab5f6-9c94-4c03-b727-97dedf114094",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0668_想见你想见你想见你.txt",
+   "title": "想见你想见你想见你",
+   "durationUs": 205260000,
+   "eventCount": 1080,
+   "sourceId": "d221e1cf-63e5-43aa-ae8b-376c170d19c2",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0669_心做.txt",
+   "title": "心做",
+   "durationUs": 284988000,
+   "eventCount": 1258,
+   "sourceId": "67c256e7-c420-422f-a25a-8314a0d11ef5",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0670_学不会.txt",
+   "title": "学不会",
+   "durationUs": 176467000,
+   "eventCount": 885,
+   "sourceId": "5cb2320c-2db7-494c-b935-a4bab955c38f",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0671_夜的第七章.txt",
+   "title": "夜的第七章",
+   "durationUs": 204375000,
+   "eventCount": 1032,
+   "sourceId": "7d23d613-f2c6-4182-aa47-85b24ad3e58f",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0672_夜曲.txt",
+   "title": "夜曲",
+   "durationUs": 235028000,
+   "eventCount": 1316,
+   "sourceId": "7036661f-0342-421e-a238-56ffb23fbf2d",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0673_一样的月光.txt",
+   "title": "一样的月光",
+   "durationUs": 191060000,
+   "eventCount": 956,
+   "sourceId": "0028f802-9a94-425a-a997-20718258514f",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0674_樱花草.txt",
+   "title": "樱花草",
+   "durationUs": 184920000,
+   "eventCount": 818,
+   "sourceId": "8299ddc3-78db-4a25-9b97-cb30201305a0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0675_有点甜.txt",
+   "title": "有点甜",
+   "durationUs": 245263000,
+   "eventCount": 1310,
+   "sourceId": "1d646ca1-7465-4bcf-b76b-efd6d82543b5",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0676_怎么了.txt",
+   "title": "怎么了",
+   "durationUs": 276812000,
+   "eventCount": 1314,
+   "sourceId": "928e8a61-6526-4caa-9cfd-8b170025a27c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0677_紫荆花盛开.txt",
+   "title": "紫荆花盛开",
+   "durationUs": 175180000,
+   "eventCount": 797,
+   "sourceId": "76798c21-0fbd-4961-b970-fffe349357f3",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0678_爱你没差.txt",
+   "title": "爱你没差",
+   "durationUs": 243890000,
+   "eventCount": 1193,
+   "sourceId": "0146ff02-9811-4f5a-ae04-0eb6d0d3da54",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0679_安静.txt",
+   "title": "安静",
+   "durationUs": 319772000,
+   "eventCount": 1383,
+   "sourceId": "9c683f12-66ff-45f7-83c3-a036884048b6",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0680_城南花已开.txt",
+   "title": "城南花已开",
+   "durationUs": 146810000,
+   "eventCount": 574,
+   "sourceId": "e7549a8c-a56d-46d7-893f-e9932483808c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0681_穿越时空的思念（语瞳）.txt",
+   "title": "穿越时空的思念（语瞳）",
+   "durationUs": 93324000,
+   "eventCount": 248,
+   "sourceId": "8c07f5fe-2aa1-48aa-a03e-3fb8267da2a7",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0682_春娇与志明.txt",
+   "title": "春娇与志明",
+   "durationUs": 15560000,
+   "eventCount": 95,
+   "sourceId": "3b779d47-37e5-4190-a4bf-2546759d3748",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0683_恶作剧.txt",
+   "title": "恶作剧",
+   "durationUs": 122060000,
+   "eventCount": 571,
+   "sourceId": "6e0d41af-dd0b-40ae-a3ca-6dc2adfae382",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0684_给我一首歌的时间.txt",
+   "title": "给我一首歌的时间",
+   "durationUs": 202372000,
+   "eventCount": 1283,
+   "sourceId": "b7d50163-7932-4e50-aa27-964f39014adf",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0685_嘉宾.txt",
+   "title": "嘉宾",
+   "durationUs": 270798000,
+   "eventCount": 1479,
+   "sourceId": "53d47da3-ecfa-4348-9c5c-f13ed4985794",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0686_泪桥.txt",
+   "title": "泪桥",
+   "durationUs": 212748000,
+   "eventCount": 981,
+   "sourceId": "30336e5f-2cae-4eed-8adc-750d89036d8a",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0687_那是你离开了北京的生活.txt",
+   "title": "那是你离开了北京的生活",
+   "durationUs": 214392000,
+   "eventCount": 977,
+   "sourceId": "d1518979-768e-4b40-a894-e2ff6f1e4e54",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0688_她说(v2).txt",
+   "title": "她说(v2)",
+   "durationUs": 277975000,
+   "eventCount": 1202,
+   "sourceId": "83381fa4-6d26-4040-95d5-c2e928a9007f",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0689_太聪明.txt",
+   "title": "太聪明",
+   "durationUs": 233142000,
+   "eventCount": 1089,
+   "sourceId": "693e85ab-12ed-442d-ac44-809c2d2ea158",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0690_天龙八部之宿敌.txt",
+   "title": "天龙八部之宿敌",
+   "durationUs": 298800000,
+   "eventCount": 1292,
+   "sourceId": "b11a77df-917a-4647-b618-df822e1fac6d",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0691_我落泪情绪零碎.txt",
+   "title": "我落泪情绪零碎",
+   "durationUs": 209778000,
+   "eventCount": 1142,
+   "sourceId": "5d04d586-4d4e-49f6-a378-1e73d218688f",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0692_我知道.txt",
+   "title": "我知道",
+   "durationUs": 181260000,
+   "eventCount": 1013,
+   "sourceId": "07d2697c-742b-41d2-9cfc-05162e279403",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0693_一程山路.txt",
+   "title": "一程山路",
+   "durationUs": 176460000,
+   "eventCount": 748,
+   "sourceId": "bfa85eb1-5496-4514-8ce3-e17e461c12e9",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0694_遗失的心跳.txt",
+   "title": "遗失的心跳",
+   "durationUs": 176874000,
+   "eventCount": 924,
+   "sourceId": "65bb6a0d-9ed2-43be-9571-697c1f5c1651",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0695_于是.txt",
+   "title": "于是",
+   "durationUs": 219396000,
+   "eventCount": 932,
+   "sourceId": "84f4560f-3d33-4abf-b7aa-32f3483e9b32",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0696_鱼仔.txt",
+   "title": "鱼仔",
+   "durationUs": 257448000,
+   "eventCount": 1152,
+   "sourceId": "27dee276-94d5-4efc-b48a-b58fc5c8ded2",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0697_园游会.txt",
+   "title": "园游会",
+   "durationUs": 179610000,
+   "eventCount": 1242,
+   "sourceId": "2bf32136-1d2f-43c1-9c77-068b795baa20",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0698_最长的电影.txt",
+   "title": "最长的电影",
+   "durationUs": 100810000,
+   "eventCount": 405,
+   "sourceId": "f174d1b9-b0f3-4ae8-b4e0-cc856d32a1dd",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0699_Baby.txt",
+   "title": "Baby",
+   "durationUs": 194640000,
+   "eventCount": 1058,
+   "sourceId": "75ba135e-00da-4319-85cb-fbdf2fa1fe07",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0700_China-X(v2).txt",
+   "title": "China-X(v2)",
+   "durationUs": 111810000,
+   "eventCount": 645,
+   "sourceId": "4974327c-6b4c-4fee-8d19-2778ded5c355",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0701_一直很安静 钢琴版.txt",
+   "title": "一直很安静 钢琴版",
+   "durationUs": 220335000,
+   "eventCount": 1188,
+   "sourceId": "83184c18-4b55-47aa-ae9c-24e0e5184384",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0702_呓语.txt",
+   "title": "呓语",
+   "durationUs": 261930000,
+   "eventCount": 1435,
+   "sourceId": "9543673b-c84a-4f98-b961-7ec3d8dc3aea",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0703_Cry for me 1.txt",
+   "title": "Cry for me 1",
+   "durationUs": 223842000,
+   "eventCount": 1378,
+   "sourceId": "69693a04-3e2c-432a-a942-7e619b6ef7bc",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0704_爱错.txt",
+   "title": "爱错",
+   "durationUs": 214460000,
+   "eventCount": 961,
+   "sourceId": "82f9e151-4631-40cb-bcb3-a7a9316b3e0c",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0705_爱情讯息.txt",
+   "title": "爱情讯息",
+   "durationUs": 276100000,
+   "eventCount": 1403,
+   "sourceId": "a77f124b-de07-4428-96cc-4dc8e32c2ab3",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0706_爱我还是他.txt",
+   "title": "爱我还是他",
+   "durationUs": 154455000,
+   "eventCount": 1043,
+   "sourceId": "5cf3e6e8-a33a-443d-9f78-10b7314c5d29",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0707_发如雪.txt",
+   "title": "发如雪",
+   "durationUs": 208268000,
+   "eventCount": 1202,
+   "sourceId": "e4013157-440a-4908-977a-8ee6f042b322",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0708_黄昏.txt",
+   "title": "黄昏",
+   "durationUs": 297240000,
+   "eventCount": 1431,
+   "sourceId": "7fe69ed6-31d9-4834-a749-c8a5399c2e8f",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0709_茉莉雨.txt",
+   "title": "茉莉雨",
+   "durationUs": 283516000,
+   "eventCount": 1019,
+   "sourceId": "e121c88a-f538-4ec3-b822-6e0a199b4eb0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0710_女孩.txt",
+   "title": "女孩",
+   "durationUs": 204924000,
+   "eventCount": 1049,
+   "sourceId": "52ed3300-d49f-4312-8c1e-63f2119603a0",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0711_十年.txt",
+   "title": "十年",
+   "durationUs": 175560000,
+   "eventCount": 821,
+   "sourceId": "927ab109-3475-4e7c-a442-e0616c5f2b13",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0712_天黑黑.txt",
+   "title": "天黑黑",
+   "durationUs": 166124000,
+   "eventCount": 900,
+   "sourceId": "eaa8549e-9574-4bd9-880d-a3b6aa04bb25",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0713_忘记时间.txt",
+   "title": "忘记时间",
+   "durationUs": 190575000,
+   "eventCount": 939,
+   "sourceId": "756d1ac7-8bb3-45ad-a74a-afa36f84996b",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0714_我好想你.txt",
+   "title": "我好想你",
+   "durationUs": 287244000,
+   "eventCount": 1279,
+   "sourceId": "6c99a30b-8bae-43bc-bf40-fdaca8f873e6",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0715_像极了.txt",
+   "title": "像极了",
+   "durationUs": 226044000,
+   "eventCount": 1185,
+   "sourceId": "685a1312-5480-4ee3-addc-e1dc2bc555ee",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0716_修炼爱情.txt",
+   "title": "修炼爱情",
+   "durationUs": 255912000,
+   "eventCount": 1200,
+   "sourceId": "9f1a7910-6622-495e-bcb7-20e581aae0fd",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0717_一直很安静 钢琴版.txt",
+   "title": "一直很安静 钢琴版",
+   "durationUs": 220335000,
+   "eventCount": 1188,
+   "sourceId": "793a2699-1948-4e1c-b495-4602b1771eae",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0718_呓语.txt",
+   "title": "呓语",
+   "durationUs": 261930000,
+   "eventCount": 1435,
+   "sourceId": "1408e3ba-9bd9-48ce-a34e-6c47ee8f863f",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0719_最后一页11.txt",
+   "title": "最后一页11",
+   "durationUs": 199168000,
+   "eventCount": 932,
+   "sourceId": "fbc91b1b-08a0-49af-a89c-93853200db17",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0720_Cry for me 1.txt",
+   "title": "Cry for me 1",
+   "durationUs": 223842000,
+   "eventCount": 1378,
+   "sourceId": "a84a3b5c-c0a5-4836-acd0-02405a740df3",
+   "renamedFromOldManifest": false
+  },
+  {
+   "assetName": "0721_You(=l).txt",
+   "title": "You(=l)",
+   "durationUs": 139810000,
+   "eventCount": 909,
+   "sourceId": "37376cb3-000b-4be7-b738-b4eaa5ef3c6c",
+   "renamedFromOldManifest": false
+  }
+ ]
+}

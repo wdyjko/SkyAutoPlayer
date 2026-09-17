@@ -1,0 +1,20 @@
+<resources>
+    <!--
+      W12: colours only. No windowIsTranslucent / windowBackground - those would
+      change how the two overlay windows are composited.
+    -->
+    <style name="Theme.SkyAutoPlayer" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/surface</item>
+        <item name="android:colorPrimaryDark">@color/bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:colorControlActivated">@color/accent</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.SkyAutoPlayer.Transparent" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorAccent">#00BCD4</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

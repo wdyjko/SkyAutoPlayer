@@ -1,0 +1,34 @@
+# ---- Android / Gradle build output ----
+build/
+.gradle/
+.kotlin/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+local.properties
+.cxx/
+
+# ---- IDE ----
+.idea/
+*.iml
+.vscode/
+*.hprof
+
+# ---- OS ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- Python (packaging / audit scripts) ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- Bundled sheet library (local backup only, not distributed) ----
+# 707 songs, 23.5 MB. Restore locally before building a release APK,
+# otherwise BundledSheetSeeder logs "assets/bundled_sheets is empty"
+# and the app ships with an empty in-app library.
+app/src/main/assets/bundled_sheets/
