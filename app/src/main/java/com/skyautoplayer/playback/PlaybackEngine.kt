@@ -42,21 +42,48 @@ class PlaybackEngine(
         var generation = 0L
         var pendingRequestId: Long? = null
         var pendingTimeoutNanos = 0L
+        var consecutiveCancellations = 0
         while (currentCoroutineContext().isActive) {
             val command = if (!playing) commands.receive() else commands.tryReceive().getOrNull()
             if (command != null) {
                 when (command) {
-                    is PlaybackCommand.Load -> { timeline = command.timeline; index = 0; positionUs = 0; playing = false; pendingRequestId = null; debug("加载曲谱：title=${command.timeline.title}, events=${command.timeline.events.size}, durationUs=${command.timeline.durationUs}"); _state.value = PlaybackState.Ready(command.timeline.title, 0, command.timeline.durationUs) }
-                    PlaybackCommand.Play, PlaybackCommand.Resume -> { timeline?.let { if (it.events.isEmpty()) { error("播放拒绝：SongTimeline.events 为空"); _state.value = PlaybackState.Error("曲谱没有可播放事件") } else { anchorClock = clock.nowNanos(); anchorSong = positionUs; playing = true; generation++; debug("play() 已开始：title=${it.title}, events=${it.events.size}, positionUs=$positionUs"); _state.value = PlaybackState.Playing(it.title, positionUs, it.durationUs, speed) } } ?: run { error("play() 被调用但没有加载 SongTimeline"); _state.value = PlaybackState.Error("请先导入曲谱") } }
+                    is PlaybackCommand.Load -> { timeline = command.timeline; index = 0; positionUs = 0; playing = false; pendingRequestId = null; consecutiveCancellations = 0; debug("加载曲谱：title=${command.timeline.title}, events=${command.timeline.events.size}, durationUs=${command.timeline.durationUs}"); _state.value = PlaybackState.Ready(command.timeline.title, 0, command.timeline.durationUs) }
+                    PlaybackCommand.Play, PlaybackCommand.Resume -> { timeline?.let { if (it.events.isEmpty()) { error("播放拒绝：SongTimeline.events 为空"); _state.value = PlaybackState.Error("曲谱没有可播放事件") } else { anchorClock = clock.nowNanos(); anchorSong = positionUs; playing = true; consecutiveCancellations = 0; generation++; debug("play() 已开始：title=${it.title}, events=${it.events.size}, positionUs=$positionUs"); _state.value = PlaybackState.Playing(it.title, positionUs, it.durationUs, speed) } } ?: run { error("play() 被调用但没有加载 SongTimeline"); _state.value = PlaybackState.Error("请先导入曲谱") } }
                     PlaybackCommand.Pause -> { if (playing) { positionUs = currentPosition(anchorClock, anchorSong, speed).coerceAtMost(timeline?.durationUs ?: Long.MAX_VALUE); playing = false; _state.value = timeline?.let { PlaybackState.Paused(it.title, positionUs, it.durationUs, speed) } ?: PlaybackState.Idle; generation++ } }
-                    PlaybackCommand.Stop -> { playing = false; positionUs = 0; index = 0; pendingRequestId = null; generation++; _state.value = timeline?.let { PlaybackState.Ready(it.title, 0, it.durationUs) } ?: PlaybackState.Idle }
+                    PlaybackCommand.Stop -> { playing = false; positionUs = 0; index = 0; pendingRequestId = null; consecutiveCancellations = 0; generation++; _state.value = timeline?.let { PlaybackState.Ready(it.title, 0, it.durationUs) } ?: PlaybackState.Idle }
                     is PlaybackCommand.Seek -> { positionUs = command.positionUs.coerceAtLeast(0); index = timeline?.events?.indexOfFirst { it.atUs >= positionUs }?.coerceAtLeast(0) ?: 0; pendingRequestId = null; if (playing) { anchorClock = clock.nowNanos(); anchorSong = positionUs }; generation++ }
                     is PlaybackCommand.SetSpeed -> { if (command.speed > 0) { if (playing) { positionUs = currentPosition(anchorClock, anchorSong, speed); anchorClock = clock.nowNanos(); anchorSong = positionUs }; speed = command.speed } }
-                    is PlaybackCommand.GestureCompleted -> if (command.requestId == pendingRequestId) pendingRequestId = null
-                    is PlaybackCommand.GestureCancelled -> if (command.requestId == pendingRequestId) {
+                    is PlaybackCommand.GestureCompleted -> if (command.requestId == pendingRequestId) {
                         pendingRequestId = null
-                        playing = false
-                        _state.value = PlaybackState.Error(command.reason ?: "Gesture was cancelled")
+                        consecutiveCancellations = 0
+                    }
+                    is PlaybackCommand.GestureCancelled -> if (command.requestId == pendingRequestId) {
+                        // A cancelled injection is TRANSIENT, not a song failure.
+                        //
+                        // On Android 14/15 the framework cancels an in-flight injected
+                        // gesture as soon as a real touch reaches the screen. The player
+                        // touches the overlay (minimise, drag, swipe) while the song runs,
+                        // so a cancellation says nothing about whether the song can
+                        // continue. Treating it as fatal stopped the whole song and showed
+                        // "Error: Cancelled" - seen on Android 14/15 devices, while an
+                        // Android 16 device never cancelled and therefore worked.
+                        //
+                        // index/positionUs were already advanced when this note was
+                        // dispatched, so dropping the pending request lets the actor
+                        // simply continue with the next note.
+                        pendingRequestId = null
+                        consecutiveCancellations++
+                        debug("手势被取消，跳过当前音符继续播放：requestId=${command.requestId}, reason=${command.reason}, 连续=$consecutiveCancellations")
+                        // A real touch cancels only the gestures it overlaps, so a handful
+                        // of consecutive cancellations is normal. Never-ending cancellations
+                        // mean the injection pipeline itself is broken, and running the rest
+                        // of the song silently would be worse than reporting it.
+                        if (consecutiveCancellations >= MAX_CONSECUTIVE_CANCELLATIONS) {
+                            playing = false
+                            _state.value = PlaybackState.Error(
+                                "连续 $MAX_CONSECUTIVE_CANCELLATIONS 次手势被系统取消，请检查无障碍服务"
+                            )
+                        }
                     }
                     PlaybackCommand.ServiceDisconnected -> {
                         pendingRequestId = null
@@ -125,5 +152,14 @@ class PlaybackEngine(
     private fun debug(message: String) { runCatching { Log.d(TAG, message) } }
     private fun error(message: String) { runCatching { Log.e(TAG, message) } }
 
-    private companion object { const val TAG = "AutoPlay" }
+    private companion object {
+        const val TAG = "AutoPlay"
+
+        /**
+         * Cancellations are expected whenever the player touches the screen, so this is
+         * deliberately far above what one touch (or one long swipe) can produce. It only
+         * trips when the injection pipeline is genuinely dead.
+         */
+        const val MAX_CONSECUTIVE_CANCELLATIONS = 40
+    }
 }

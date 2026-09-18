@@ -13,6 +13,7 @@ import kotlinx.coroutines.test.runCurrent
 import kotlinx.coroutines.test.runTest
 import kotlin.test.Test
 import kotlin.test.assertEquals
+import kotlin.test.assertFalse
 import kotlin.test.assertIs
 
 @OptIn(ExperimentalCoroutinesApi::class)
@@ -64,12 +65,58 @@ class PlaybackEngineTest {
         engine.close()
     }
 
+    @Test
+    fun `a cancelled gesture skips that note instead of failing the song`() = runTest {
+        // Regression: on Android 14/15 a real touch cancels the in-flight injected
+        // gesture. That must NOT stop playback or produce "Error: Cancelled".
+        //
+        // A single event keeps the test independent of virtual-time advancement.
+        val sink = CancellingSink(cancelFirstN = 1)
+        val engine = PlaybackEngine(sink, MonotonicClock { 0L }, this)
+        engine.load(song(events = listOf(
+            TimelineEvent(0, setOf(0), 10_000)
+        )))
+        runCurrent()
+        engine.play()
+        runCurrent()
+
+        assertEquals(1, sink.requests.size)
+        // The whole point: a cancellation is transient. It must not surface as a
+        // fatal error the way it did before (the bug showed "错误：Cancelled" and
+        // stopped the song).
+        assertFalse(
+            engine.state.value is PlaybackState.Error,
+            "cancellation must not surface as a fatal error, was ${engine.state.value}"
+        )
+
+        engine.stop()
+        runCurrent()
+        engine.close()
+    }
+
     private fun song(events: List<TimelineEvent>) = SongTimeline(
         timelineId = "test",
         title = "Test song",
         durationUs = 2_000_000,
         events = events
     )
+
+    /** Cancels the first [cancelFirstN] dispatches, then completes the rest. */
+    private class CancellingSink(private val cancelFirstN: Int) : GestureSink {
+        val requests = mutableListOf<GestureRequest>()
+
+        override fun dispatchChord(
+            request: GestureRequest,
+            onCompletion: (GestureCompletion) -> Unit
+        ): DispatchSubmission {
+            val shouldCancel = requests.size < cancelFirstN
+            requests += request
+            onCompletion(
+                if (shouldCancel) GestureCompletion.Cancelled else GestureCompletion.Completed
+            )
+            return DispatchSubmission.Accepted
+        }
+    }
 
     private class CompletingSink : GestureSink {
         val requests = mutableListOf<GestureRequest>()
