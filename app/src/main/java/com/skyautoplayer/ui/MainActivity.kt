@@ -105,6 +105,9 @@ class MainActivity : ComponentActivity() {
 
     private var calibrationPending = false
 
+    /** Set when the user asked for perform mode but the overlay permission is missing. */
+    private var performModePending = false
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // Pre-warm the playback FGS while we are still in the foreground; doing
@@ -208,9 +211,7 @@ class MainActivity : ComponentActivity() {
         // W22: the parenthetical was ambiguous - the button only *starts* the
         // overlay, the user still has to switch to Sky themselves.
         val performModeButton = styledButton("开始演奏模式", primary = true) {
-            startForegroundService(Intent(this@MainActivity, PlaybackOverlayService::class.java))
-            status.text = "演奏控制条已开启 · 现在切到光遇即可"
-            refreshAccessibilityStatus()
+            startPerformMode()
         }
         val reseedButton = styledButton("重新导入内置曲库") { runSeeder(force = true) }
         // W9.2: clears the tombstones first, so songs deleted on purpose come
@@ -354,6 +355,12 @@ class MainActivity : ComponentActivity() {
         OverlayController.setOwnAppForeground(true)
         refreshAccessibilityStatus()
         if (calibrationPending && Settings.canDrawOverlays(this)) openCalibrationOverlay()
+        // Same round-trip for perform mode: the user tapped 「开始演奏模式」, we sent
+        // them to the permission page, and they have now come back.
+        if (performModePending && Settings.canDrawOverlays(this)) {
+            performModePending = false
+            enablePerformMode()
+        }
         reloadLibrary()
         refreshCalibrationStatus()
         refreshSettingsStatus()
@@ -763,6 +770,45 @@ class MainActivity : ComponentActivity() {
         }
         calibrationPending = false
         startForegroundService(Intent(this, CalibrationOverlayService::class.java))
+    }
+
+    /**
+     * Entry point for 「开始演奏模式」.
+     *
+     * The overlay control bar is a TYPE_APPLICATION_OVERLAY window, so without the
+     * draw-over-other-apps permission it simply never appears. Starting the service
+     * anyway used to fail silently and look like a broken button, so ask for the
+     * permission first and explain why it is needed.
+     */
+    private fun startPerformMode() {
+        if (Settings.canDrawOverlays(this)) {
+            performModePending = false
+            enablePerformMode()
+            return
+        }
+        performModePending = true
+        AlertDialog.Builder(this)
+            .setTitle("需要悬浮窗权限")
+            .setMessage(
+                "演奏控制条要浮在光遇之上，必须先允许「显示悬浮窗」。\n\n" +
+                    "开启后回到本页会自动开始演奏模式。"
+            )
+            .setPositiveButton("去开启") { _, _ ->
+                startActivity(
+                    Intent(
+                        Settings.ACTION_MANAGE_OVERLAY_PERMISSION,
+                        Uri.parse("package:$packageName")
+                    )
+                )
+            }
+            .setNegativeButton("稍后") { _, _ -> performModePending = false }
+            .show()
+    }
+
+    private fun enablePerformMode() {
+        startForegroundService(Intent(this@MainActivity, PlaybackOverlayService::class.java))
+        status.text = "演奏控制条已开启 · 现在切到光遇即可"
+        refreshAccessibilityStatus()
     }
 
     private fun refreshAccessibilityStatus() {
