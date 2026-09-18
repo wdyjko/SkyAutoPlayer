@@ -43,12 +43,12 @@ class PlayerAccessibilityService : AccessibilityService() {
             builder.addStroke(GestureDescription.StrokeDescription(path, 0L, durationMs))
         }
         // One platform dispatch containing every stroke preserves chord simultaneity.
-        Log.d(TAG, "dispatchGesture：requestId=${request.requestId}, keys=${request.keys}, points=${request.points.size}, durationMs=$durationMs")
+        Log.d(TAG, "DIAG dispatchGesture: requestId=${request.requestId}, keys=${request.keys}, points=${request.points.size}, durationMs=$durationMs")
         val accepted = dispatchGesture(builder.build(), object : GestureResultCallback() {
-            override fun onCompleted(gestureDescription: GestureDescription?) { Log.d(TAG, "dispatchGesture completed: ${request.requestId}"); callback(GestureCompletion.Completed) }
-            override fun onCancelled(gestureDescription: GestureDescription?) { Log.e(TAG, "dispatchGesture cancelled: ${request.requestId}"); callback(GestureCompletion.Cancelled) }
+            override fun onCompleted(gestureDescription: GestureDescription?) { Log.d(TAG, "DIAG dispatchGesture completed: ${request.requestId}"); callback(GestureCompletion.Completed) }
+            override fun onCancelled(gestureDescription: GestureDescription?) { Log.e(TAG, "DIAG dispatchGesture cancelled: ${request.requestId}"); callback(GestureCompletion.Cancelled) }
         }, null)
-        Log.d(TAG, "dispatchGesture accepted=$accepted, requestId=${request.requestId}")
+        Log.d(TAG, "DIAG dispatchGesture accepted=$accepted, requestId=${request.requestId}")
         return if (accepted) DispatchSubmission.Accepted else DispatchSubmission.Rejected("Android rejected gesture")
     }
 
@@ -58,15 +58,34 @@ class PlayerAccessibilityService : AccessibilityService() {
 class AndroidGestureSink(private val resolvedPoints: () -> List<PointF>) : GestureSink {
     constructor(store: CalibrationStore, profileId: String, display: () -> DisplaySnapshot) : this({
         val snapshot = display()
-        store.load(profileId)?.let { CoordinateTransformer().resolve(it, snapshot) } ?: emptyList()
+        Log.d(TAG, "DIAG snapshot: displayId=${snapshot.displayId} orientation=${snapshot.orientation} " +
+            "size=${snapshot.widthPx}x${snapshot.heightPx} contentBounds=${snapshot.contentBounds} " +
+            "barInsets=${snapshot.systemBarInsets} densityDpi=${snapshot.densityDpi}")
+        val profile = store.load(profileId)
+        if (profile == null) {
+            Log.e(TAG, "DIAG snapshot: profile '$profileId' NOT FOUND")
+        } else {
+            Log.d(TAG, "DIAG profile: profileId=${profile.profileId} displayId=${profile.displayId} " +
+                "orientation=${profile.orientation} size=${profile.displayWidthPx}x${profile.displayHeightPx} " +
+                "profileBounds=${profile.contentBounds} barInsets=${profile.systemBarInsets}")
+        }
+        profile?.let { CoordinateTransformer().resolve(it, snapshot) } ?: emptyList()
     })
 
     override fun dispatchChord(request: GestureRequest, onCompletion: (GestureCompletion) -> Unit): DispatchSubmission {
-        val service = PlayerAccessibilityService.instance ?: run { Log.e(TAG, "无法派发手势：AccessibilityService.instance == null"); return DispatchSubmission.Unavailable }
+        val service = PlayerAccessibilityService.instance
+        if (service == null) {
+            Log.e(TAG, "无法派发手势：AccessibilityService.instance == null")
+            return DispatchSubmission.Unavailable
+        }
         val keyPoints = resolvedPoints()
-        Log.d(TAG, "解析校准点：keys=${request.keys}, points=${keyPoints.size}")
+        Log.d(TAG, "DIAG sink: keys=${request.keys} resolvedCount=${keyPoints.size} first=${keyPoints.firstOrNull()}")
         val resolved = request.copy(points = request.keys.sorted().mapNotNull { keyPoints.getOrNull(it) })
-        if (resolved.points.size != request.keys.size) return DispatchSubmission.Invalid("calibration profile is missing or incomplete")
+        if (resolved.points.size != request.keys.size) {
+            Log.e(TAG, "DIAG sink: DISTINCT profile missing/incomplete - keys=${request.keys} resolved=${resolved.points.size}")
+            return DispatchSubmission.Invalid("calibration profile is missing or incomplete")
+        }
+        Log.d(TAG, "DIAG sink: resolvedPoints=${resolved.points}")
         return service.dispatch(resolved, onCompletion)
     }
 }
