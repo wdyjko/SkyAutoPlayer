@@ -89,40 +89,6 @@ python tools\bundle_from_device_library.py --index <曲库索引> --songs <曲�
 
 ---
 
-## 5. 文档
-
-| 文件 | 内容 |
-|---|---|
-| `使用说明.md` | **面向用户的使用说明**（图片用相对路径引用，见下方 `使用说明-图片/`） |
-| `使用说明-图片/` | `使用说明.md` 引用的 6 张截图。**分享时需与 md 一起发送**，否则图不显示 |
-| `使用说明.docx` | Word 版（**人工维护**，脚本不生成、不覆盖），不入库，随 GitHub Release 分发 |
-
-> 历史上另有一批 `docs/` 设计文档（总体设计、可行性审计、曲谱格式规范、开发约定、
-> 各轮工单与验收回报），现已从工作区移除；需要查阅时见首个提交 `eeff151` 的历史版本。
->
-> **发布产物**：APK 与 `使用说明.docx` 不入库，统一通过
-> [GitHub Releases](https://github.com/wdyjko/SkyAutoPlayer/releases) 分发。
-
-`使用说明.md` 的正文直接编辑即可，**默认不需要跑任何脚本**：
-
-```powershell
-python tools\verify_user_guide_md.py      # 校验：引用都在、图片可解码、与原始截图字节一致
-
-# 可选动作，必须显式给参数（默认运行不改动任何文件）
-python tools\build_user_guide.py --embed  # 把图片换成 base64 内嵌（单文件可分享，源码变长）
-python tools\build_user_guide.py --docx   # 从 md 生成 Word -> tools/generated-使用说明.docx
-
-python tools\make_user_guide_portable.py  # 反向：内嵌 -> 相对路径（图片解出到 使用说明-图片/）
-python tools\verify_user_guide_docx.py    # 校验生成的 docx 结构（对人工版意义有限）
-```
-
-> 两条硬性约束（都是踩过坑之后加的）：
-> 1. **脚本永不写 `使用说明.docx`**。它由人工排版维护，需要自动产物时只写
->    `tools/generated-使用说明.docx`。
-> 2. **不默认内嵌图片**。相对路径 ↔ base64 的切换必须是显式选择，避免源码被自动改成一长串 base64。
-
----
-
-## 6. 声明
+## 5. 声明
 
 本项目仅供个人学习与技术研究。请遵守游戏服务条款，不要用于破坏他人游戏体验的场景。
