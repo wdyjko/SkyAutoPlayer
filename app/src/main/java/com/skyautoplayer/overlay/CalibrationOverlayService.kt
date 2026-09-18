@@ -16,6 +16,7 @@ import android.os.Build
 import android.os.Handler
 import android.os.IBinder
 import android.os.Looper
+import android.util.DisplayMetrics
 import android.util.Log
 import android.view.Gravity
 import android.view.MotionEvent
@@ -210,8 +211,19 @@ class CalibrationOverlayService : Service() {
      * nothing. Make the anchors untouchable for the duration of the injection.
      */
     private fun testClick() {
-        val service = PlayerAccessibilityService.instance ?: return
-        val point = points.firstOrNull()?.let(::pointToPixels) ?: return
+        val service = PlayerAccessibilityService.instance
+        if (service == null) {
+            Log.e(TAG, "DIAG testClick: instance == null - accessibility service not connected")
+            return
+        }
+        val raw = points.firstOrNull()
+        if (raw == null) {
+            Log.e(TAG, "DIAG testClick: points is empty (count=${points.size})")
+            return
+        }
+        val point = pointToPixels(raw)
+        Log.d(TAG, "DIAG testClick: raw=$raw pixel=(${point.x}, ${point.y}) anchors=${points.size} " +
+            "anchorViewCount=${anchorViews.size}")
         setAnchorsTouchable(false)
         service.dispatch(GestureRequest(System.nanoTime(), setOf(0), listOf(point), 60_000, System.nanoTime())) { _: GestureCompletion -> }
         Handler(Looper.getMainLooper()).postDelayed({ setAnchorsTouchable(true) }, 300L)
@@ -273,7 +285,16 @@ class CalibrationOverlayService : Service() {
     private fun createDisplaySnapshot(): DisplaySnapshot {
         @Suppress("DEPRECATION")
         val display = windowManager.defaultDisplay
-        val metrics = resources.displayMetrics
+        // The stored profile must be measured in the SAME space the playback path
+        // resolves into (PlaybackRuntime.displaySnapshot uses display.getRealMetrics).
+        // resources.displayMetrics reports the app window area, which on devices with
+        // a tall status bar or a cutout is SMALLER than the real display. Mixing the
+        // two scaled the normalized 0..1 points against a different rectangle at play
+        // time than when they were captured, shifting every key so injected taps
+        // landed on the overlay controls instead of the piano keys.
+        val metrics = DisplayMetrics()
+        @Suppress("DEPRECATION")
+        display.getRealMetrics(metrics)
         val bars = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
             val insets = windowManager.currentWindowMetrics.windowInsets.getInsetsIgnoringVisibility(
                 android.view.WindowInsets.Type.systemBars() or android.view.WindowInsets.Type.displayCutout()
