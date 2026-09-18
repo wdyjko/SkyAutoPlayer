@@ -27,6 +27,14 @@ __pycache__/
 .venv/
 venv/
 
+# ---- Release artifacts (published via GitHub Releases, not committed) ----
+release/
+使用说明.docx
+tools/generated-使用说明.docx
+
+# ---- Local device diagnostics (adb logcat capture) ----
+_diag.log
+
 # ---- Bundled sheet library (local backup only, not distributed) ----
 # 707 songs, 23.5 MB. Restore locally before building a release APK,
 # otherwise BundledSheetSeeder logs "assets/bundled_sheets is empty"
